@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/connection.py" timestamp="1505163373766">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="44" column="11" />
-        <mark key="^" line="44" column="11" />
-        <mark key="." line="44" column="11" />
-      </file>
       <file name="/Python Console" timestamp="1505163178370">
         <mark key="[" line="0" column="0" />
       </file>
