@@ -1,4 +1,8 @@
 <keymap version="1" name="YJK2" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -7,6 +11,10 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Open" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
@@ -33,6 +41,10 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -40,31 +52,24 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="meta alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="meta alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="NextOccurence" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
-  </action>
-  <action id="RunDashboard.Debug">
-    <keyboard-shortcut first-keystroke="shift f9" />
   </action>
   <action id="SendEOF" />
   <action id="StepInto">

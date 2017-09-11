@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/connection.py" timestamp="1505155767991">
-        <mark key="'" line="19" column="29" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/connection.py" timestamp="1505163373766">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="44" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1505158440882">
+      <file name="/Python Console" timestamp="1505163178370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
-        <mark key="[" line="11" column="29" />
+        <mark key="[" line="13" column="29" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="9" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -21,15 +24,21 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCAqCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZXNzaW9uCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICMgbmV3X2V4dHJhY3QgPSBFeHRyYWN0KGZuKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCAqCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lLCBNZXRhRGF0YSwgVGFibGUKZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgbWFwcGVyLCBzZXNzaW9ubWFrZXIKZnJvbSBzcWxhbGNoZW15LmVuZ2luZS51cmwgaW1wb3J0IFVSTApmcm9tIHNxbGFsY2hlbXkgaW1wb3J0IGNyZWF0ZV9lbmdpbmUKZnJvbSBzcWxhbGNoZW15IGltcG9ydCBpbnNwZWN0CmZyb20gc3FsYWxjaGVteSBpbXBvcnQgTWV0YURhdGEK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>url = URL(**mdb)
 print url
 # engine = create_engine(url, echo=True)
@@ -44,7 +53,7 @@ users_table = Table('users', metadata, autoload=True)
 print users_table</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>S</text>
       </register>
     </registers>
     <search>
