@@ -6,9 +6,10 @@
       <file name="/Python Console" timestamp="1505163178370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505234198964">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
+        <mark key="[" line="10" column="26" />
         <mark key="]" line="8" column="0" />
+        <mark key="^" line="12" column="34" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
@@ -23,37 +24,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgojIGNsYXNzIFVzZXIoQmFzZSk6CiMgICBfX3RhYmxlbmFtZV9fID0gJ3VzZXJzJwojICAgaWQgPSBDb2x1bW4oSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkKIyAgIG5hbWUgPSBDb2x1bW4oU3RyaW5nKQojICAgZnVsbG5hbWUgPSBDb2x1bW4oU3RyaW5nKQojICAgcGFzc3dvcmQgPSBDb2x1bW4oU3RyaW5nKQoKICAjIGRlZiBfX3JlcHJfXygpOgogICMgICByZXR1cm4gIjxVc2VyKG5hbWU9JyVzJywgZnVsbG5hbWU9JyVzJywgcGFzc3dvcmQ9JyVzJyk+IiAlICgKICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubmFtZSwgc2VsZi5mdWxsbmFtZSwgc2VsZi5wYXNzd29yZCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgbWFwcGVyLCByZWxhdGlvbnNoaXAsIHNlc3Npb25tYWtlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludCBlZC5uYW1lCg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5hdXRvbWFwIGltcG9ydCBhdXRvbWFwX2Jhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlZCA9IFVzZXIobmFtZT0nZWQnLCBmdWxsbmFtZT0nRWQgSm9uZXMnLCBwYXNzd29yZD0nZWRzcGFzc3dvcmQnKQo=</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgc2Vzc2lvbm1ha2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXNzaW9uCg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIEludGVnZXIsIFN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbmV3X2V4dHJhY3QgPSBFeHRyYWN0KGZuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCAqCg==</text>
+        <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lLCBNZXRhRGF0YSwgVGFibGUKZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgbWFwcGVyLCBzZXNzaW9ubWFrZXIKZnJvbSBzcWxhbGNoZW15LmVuZ2luZS51cmwgaW1wb3J0IFVSTApmcm9tIHNxbGFsY2hlbXkgaW1wb3J0IGNyZWF0ZV9lbmdpbmUKZnJvbSBzcWxhbGNoZW15IGltcG9ydCBpbnNwZWN0CmZyb20gc3FsYWxjaGVteSBpbXBvcnQgTWV0YURhdGEK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgojIGNsYXNzIFVzZXIoQmFzZSk6CiMgICBfX3RhYmxlbmFtZV9fID0gJ3VzZXJzJwojICAgaWQgPSBDb2x1bW4oSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkKIyAgIG5hbWUgPSBDb2x1bW4oU3RyaW5nKQojICAgZnVsbG5hbWUgPSBDb2x1bW4oU3RyaW5nKQojICAgcGFzc3dvcmQgPSBDb2x1bW4oU3RyaW5nKQoKICAjIGRlZiBfX3JlcHJfXygpOgogICMgICByZXR1cm4gIjxVc2VyKG5hbWU9JyVzJywgZnVsbG5hbWU9JyVzJywgcGFzc3dvcmQ9JyVzJyk+IiAlICgKICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubmFtZSwgc2VsZi5mdWxsbmFtZSwgc2VsZi5wYXNzd29yZCk=</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>user_barf</text>
       </register>
     </registers>
     <search>
