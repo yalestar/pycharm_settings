@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505262145121">
+        <mark key="[" line="384" column="66" />
+        <mark key="]" line="391" column="9" />
+        <mark key="^" line="391" column="9" />
+        <mark key="." line="391" column="9" />
+      </file>
       <file name="/Python Console" timestamp="1505163178370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,6 +23,13 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505262067901">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="0" column="0" />
@@ -26,37 +39,60 @@
     </filemarks>
     <jumps>
       <jump line="21" column="29" filename="$USER_HOME$/dev/analytics/data_extractor/connection.py" />
+      <jump line="10" column="17" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmRiIGltcG9ydCBtb2RlbHMK</text>
+        <text encoding="base64">IyBmb3IgdSBpbiBDb25kaXRpb25UcmVhdG1lbnRzLm9iamVjdHMuYWxsKCk6Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmRiIGltcG9ydCBtb2RlbHMK</text>
+        <text encoding="base64">IyBmb3IgdSBpbiBDb25kaXRpb25UcmVhdG1lbnRzLm9iamVjdHMuYWxsKCk6Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+      <register name="2" type="4">
+        <text>class Genders(models.Model):
+    name = models.CharField(max_length=255, blank=True, null=True)
+    desc = models.CharField(max_length=255, blank=True, null=True)
+    created_at = models.DateTimeField(blank=True, null=True)
+    updated_at = models.DateTimeField(blank=True, null=True)
+    is_birth = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'genders'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXhjZXB0IEV4Y2VwdGlvbjoKICAgIHByaW50KCJFeGNlcHRpb246IERqYW5nbyBOb3QgRm91bmQsIHBsZWFzZSBpbnN0YWxsIGl0IHdpdGggXCJwaXAgaW5zdGFsbCBkamFuZ29cIi4iKQogICAgc3lzLmV4aXQoKQo=</text>
+      <register name="3" type="4">
+        <text>class Drafts(models.Model):
+    item_type = models.CharField(max_length=255)
+    item_id = models.IntegerField()
+    event = models.CharField(max_length=255)
+    whodunnit = models.CharField(max_length=255, blank=True, null=True)
+    object = models.TextField(blank=True, null=True)
+    previous_draft = models.TextField(blank=True, null=True)
+    created_at = models.DateTimeField()
+    updated_at = models.DateTimeField()
+    object_changes = models.TextField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'drafts'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVGhpcyBpcyBhbiBhdXRvLWdlbmVyYXRlZCBEamFuZ28gbW9kZWwgbW9kdWxlLgogICAgIyBZb3UnbGwgaGF2ZSB0byBkbyB0aGUgZm9sbG93aW5nIG1hbnVhbGx5IHRvIGNsZWFuIHRoaXMgdXA6CiAgICAjICAgKiBSZWFycmFuZ2UgbW9kZWxzJyBvcmRlcgogICAgIyAgICogTWFrZSBzdXJlIGVhY2ggbW9kZWwgaGFzIG9uZSBmaWVsZCB3aXRoIHByaW1hcnlfa2V5PVRydWUKICAgICMgICAqIE1ha2Ugc3VyZSBlYWNoIEZvcmVpZ25LZXkgaGFzIGBvbl9kZWxldGVgIHNldCB0byB0aGUgZGVzaXJlZCBiZWhhdmlvci4KICAgICMgICAqIFJlbW92ZSBgbWFuYWdlZCA9IEZhbHNlYCBsaW5lcyBpZiB5b3Ugd2lzaCB0byBhbGxvdyBEamFuZ28gdG8gY3JlYXRlLCBtb2RpZnksIGFuZCBkZWxldGUgdGhlIHRhYmxlCiAgICAjIEZlZWwgZnJlZSB0byByZW5hbWUgdGhlIG1vZGVscywgYnV0IGRvbid0IHJlbmFtZSBkYl90YWJsZSB2YWx1ZXMgb3IgZmllbGQgbmFtZXMuCiAgICBmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHVuaWNvZGVfbGl0ZXJhbHMKCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IyBjbGFzcyBEZWxpdmVyeU1ldGhvZHMobW9kZWxzLk1vZGVsKToKIyAgICAgbmFtZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTUsIGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKIyAgICAgZGVzYyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQojICAgICBjcmVhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQojICAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQoKIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1hbmFnZWQgPSBGYWxzZQojICAgICAgICAgZGJfdGFibGUgPSAnZGVsaXZlcnlfbWV0aG9kcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJJRDogIiArIHN0cih1LmlkKSArICJcdE5hbWU6ICIgKyB1Lm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgbWFwcGVyLCByZWxhdGlvbnNoaXAsIHNlc3Npb25tYWtlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5hdXRvbWFwIGltcG9ydCBhdXRvbWFwX2Jhc2UK</text>
+        <text encoding="base64">IyBUdXJuIG9mZiBieXRlY29kZSBnZW5lcmF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgc2Vzc2lvbm1ha2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="-" type="4">
         <text />
