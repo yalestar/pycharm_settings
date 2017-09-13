@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505262145121">
-        <mark key="[" line="384" column="66" />
-        <mark key="]" line="391" column="9" />
-        <mark key="^" line="391" column="9" />
-        <mark key="." line="391" column="9" />
+        <mark key="[" line="381" column="66" />
+        <mark key="]" line="388" column="9" />
+        <mark key="^" line="388" column="9" />
+        <mark key="." line="388" column="9" />
       </file>
       <file name="/Python Console" timestamp="1505163178370">
         <mark key="[" line="0" column="0" />
