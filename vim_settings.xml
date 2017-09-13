@@ -12,6 +12,11 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Django-ORM-master/main.py" timestamp="1505261119143">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="0" column="0" />
@@ -24,37 +29,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
+        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmRiIGltcG9ydCBtb2RlbHMK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
+        <text encoding="base64">ICAgIGZyb20gZGphbmdvLmRiIGltcG9ydCBtb2RlbHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgbWFwcGVyLCByZWxhdGlvbnNoaXAsIHNlc3Npb25tYWtlcgo=</text>
+        <text encoding="base64">ZXhjZXB0IEV4Y2VwdGlvbjoKICAgIHByaW50KCJFeGNlcHRpb246IERqYW5nbyBOb3QgRm91bmQsIHBsZWFzZSBpbnN0YWxsIGl0IHdpdGggXCJwaXAgaW5zdGFsbCBkamFuZ29cIi4iKQogICAgc3lzLmV4aXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5hdXRvbWFwIGltcG9ydCBhdXRvbWFwX2Jhc2UK</text>
+        <text encoding="base64">ICAgICMgVGhpcyBpcyBhbiBhdXRvLWdlbmVyYXRlZCBEamFuZ28gbW9kZWwgbW9kdWxlLgogICAgIyBZb3UnbGwgaGF2ZSB0byBkbyB0aGUgZm9sbG93aW5nIG1hbnVhbGx5IHRvIGNsZWFuIHRoaXMgdXA6CiAgICAjICAgKiBSZWFycmFuZ2UgbW9kZWxzJyBvcmRlcgogICAgIyAgICogTWFrZSBzdXJlIGVhY2ggbW9kZWwgaGFzIG9uZSBmaWVsZCB3aXRoIHByaW1hcnlfa2V5PVRydWUKICAgICMgICAqIE1ha2Ugc3VyZSBlYWNoIEZvcmVpZ25LZXkgaGFzIGBvbl9kZWxldGVgIHNldCB0byB0aGUgZGVzaXJlZCBiZWhhdmlvci4KICAgICMgICAqIFJlbW92ZSBgbWFuYWdlZCA9IEZhbHNlYCBsaW5lcyBpZiB5b3Ugd2lzaCB0byBhbGxvdyBEamFuZ28gdG8gY3JlYXRlLCBtb2RpZnksIGFuZCBkZWxldGUgdGhlIHRhYmxlCiAgICAjIEZlZWwgZnJlZSB0byByZW5hbWUgdGhlIG1vZGVscywgYnV0IGRvbid0IHJlbmFtZSBkYl90YWJsZSB2YWx1ZXMgb3IgZmllbGQgbmFtZXMuCiAgICBmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHVuaWNvZGVfbGl0ZXJhbHMKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgc2Vzc2lvbm1ha2VyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIEludGVnZXIsIFN0cmluZwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">IyBCYXNlID0gYXV0b21hcF9iYXNlKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgojIGNsYXNzIFVzZXIoQmFzZSk6CiMgICBfX3RhYmxlbmFtZV9fID0gJ3VzZXJzJwojICAgaWQgPSBDb2x1bW4oSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkKIyAgIG5hbWUgPSBDb2x1bW4oU3RyaW5nKQojICAgZnVsbG5hbWUgPSBDb2x1bW4oU3RyaW5nKQojICAgcGFzc3dvcmQgPSBDb2x1bW4oU3RyaW5nKQoKICAjIGRlZiBfX3JlcHJfXygpOgogICMgICByZXR1cm4gIjxVc2VyKG5hbWU9JyVzJywgZnVsbG5hbWU9JyVzJywgcGFzc3dvcmQ9JyVzJyk+IiAlICgKICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubmFtZSwgc2VsZi5mdWxsbmFtZSwgc2VsZi5wYXNzd29yZCk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgbWFwcGVyLCByZWxhdGlvbnNoaXAsIHNlc3Npb25tYWtlcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5hdXRvbWFwIGltcG9ydCBhdXRvbWFwX2Jhc2UK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgc2Vzc2lvbm1ha2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>user_barf</text>
+        <text />
       </register>
     </registers>
     <search>
