@@ -30,11 +30,10 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505346538606">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505404631943">
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
@@ -52,15 +51,18 @@
         <text encoding="base64">ICAgICdkYicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgCg==</text>
+        <text encoding="base64">IyBjdCA9IENvbmRpdGlvblRyZWF0bWVudHMub2JqZWN0cy5nZXQocGs9MTgyMSkKIyBwcmludCBjdC5jb25kaXRpb24KIyBwcmludCBjdC50cmVhdG1lbnQucHJpbWFyeV9uYW1lCiMgcHJpbnQgY3QudHJlYXRtZW50LnRyZWF0bWVudF9jYXRlZ29yeS5uYW1lCgp1c2VyID0gVXNlcnMub2JqZWN0cy5nZXQocGs9MzgwNykKcHJpbnQgdXNlci5vcmdhbml6YXRpb24KCiMgcHJpbnQgdXNlci5vcmdhbml6YXRpb24K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>birth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBjdCA9IENvbmRpdGlvblRyZWF0bWVudHMub2JqZWN0cy5nZXQocGs9MTgyMSkKIyBwcmludCBjdC5jb25kaXRpb24KIyBwcmludCBjdC50cmVhdG1lbnQucHJpbWFyeV9uYW1lCiMgcHJpbnQgY3QudHJlYXRtZW50LnRyZWF0bWVudF9jYXRlZ29yeS5uYW1lCgp1c2VyID0gVXNlcnMub2JqZWN0cy5nZXQocGs9MzgwNykKcHJpbnQgdXNlci5vcmdhbml6YXRpb24KCiMgcHJpbnQgdXNlci5vcmdhbml6YXRpb24K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">cHJpbnQgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IyBmb3IgdSBpbiBDb25kaXRpb25UcmVhdG1lbnRzLm9iamVjdHMuYWxsKCk6Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>class Genders(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
     desc = models.CharField(max_length=255, blank=True, null=True)
@@ -72,7 +74,7 @@
         managed = False
         db_table = 'genders'</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>class Drafts(models.Model):
     item_type = models.CharField(max_length=255)
     item_id = models.IntegerField()
@@ -88,20 +90,17 @@
         managed = False
         db_table = 'drafts'</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IyBjbGFzcyBEZWxpdmVyeU1ldGhvZHMobW9kZWxzLk1vZGVsKToKIyAgICAgbmFtZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTUsIGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKIyAgICAgZGVzYyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQojICAgICBjcmVhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQojICAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQoKIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1hbmFnZWQgPSBGYWxzZQojICAgICAgICAgZGJfdGFibGUgPSAnZGVsaXZlcnlfbWV0aG9kcycK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KCJJRDogIiArIHN0cih1LmlkKSArICJcdE5hbWU6ICIgKyB1Lm5hbWUpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUdXJuIG9mZiBieXRlY29kZSBnZW5lcmF0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
       </register>
       <register name="-" type="4">
         <text>birth</text>
