@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1505341526062" />
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505341519310">
-        <mark key="[" line="493" column="62" />
-        <mark key="]" line="493" column="62" />
-        <mark key="^" line="493" column="62" />
-        <mark key="." line="493" column="62" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1505346359968">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="3" column="9" />
+        <mark key="o" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505346869753">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="613" column="63" />
+        <mark key="^" line="613" column="62" />
+        <mark key="." line="613" column="63" />
       </file>
       <file name="/Python Console" timestamp="1505163178370">
         <mark key="[" line="0" column="0" />
@@ -24,11 +30,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505262914324">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/models_for_alter.py" timestamp="1505346862143" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505346538606">
         <mark key="'" line="10" column="17" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
@@ -42,11 +49,14 @@
       <jump line="10" column="17" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdkYicsCg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>birth</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBmb3IgdSBpbiBDb25kaXRpb25UcmVhdG1lbnRzLm9iamVjdHMuYWxsKCk6Cg==</text>
@@ -95,7 +105,7 @@
         <text encoding="base64">IyBUdXJuIG9mZiBieXRlY29kZSBnZW5lcmF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>birth</text>
       </register>
     </registers>
     <search>
