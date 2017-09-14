@@ -10,13 +10,16 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505422981306">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505424026923">
         <mark key="[" line="219" column="8" />
-        <mark key="]" line="7" column="50" />
-        <mark key="^" line="227" column="17" />
-        <mark key="." line="7" column="50" />
+        <mark key="]" line="218" column="13" />
+        <mark key="." line="218" column="13" />
+        <mark key="^" line="218" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1505423110117">
+      <file name="/Python Console" timestamp="1505424056980">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1505424063717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
@@ -30,11 +33,11 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505423109008">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505424329427">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -53,22 +56,37 @@
       <jump line="35" column="31" filename="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdkYicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBjdCA9IENvbmRpdGlvblRyZWF0bWVudHMub2JqZWN0cy5nZXQocGs9MTgyMSkKIyBwcmludCBjdC5jb25kaXRpb24KIyBwcmludCBjdC50cmVhdG1lbnQucHJpbWFyeV9uYW1lCiMgcHJpbnQgY3QudHJlYXRtZW50LnRyZWF0bWVudF9jYXRlZ29yeS5uYW1lCgp1c2VyID0gVXNlcnMub2JqZWN0cy5nZXQocGs9MzgwNykKcHJpbnQgdXNlci5vcmdhbml6YXRpb24KCiMgcHJpbnQgdXNlci5vcmdhbml6YXRpb24K</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0dFswXS5wcmltYXJ5X25hbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgCg==</text>
+        <text encoding="base64">ICAgIGlmIHR0Ogo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIG5kYyA9ICc1OTc0NjAwMTUwNCcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBjdCA9IENvbmRpdGlvblRyZWF0bWVudHMub2JqZWN0cy5nZXQocGs9MTgyMSkKIyBwcmludCBjdC5jb25kaXRpb24KIyBwcmludCBjdC50cmVhdG1lbnQucHJpbWFyeV9uYW1lCiMgcHJpbnQgY3QudHJlYXRtZW50LnRyZWF0bWVudF9jYXRlZ29yeS5uYW1lCgp1c2VyID0gVXNlcnMub2JqZWN0cy5nZXQocGs9MzgwNykKcHJpbnQgdXNlci5vcmdhbml6YXRpb24KCiMgcHJpbnQgdXNlci5vcmdhbml6YXRpb24K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">IyBmb3IgdSBpbiBDb25kaXRpb25UcmVhdG1lbnRzLm9iamVjdHMuYWxsKCk6Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>class Genders(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
     desc = models.CharField(max_length=255, blank=True, null=True)
@@ -80,7 +98,7 @@
         managed = False
         db_table = 'genders'</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>class Drafts(models.Model):
     item_type = models.CharField(max_length=255)
     item_id = models.IntegerField()
@@ -96,20 +114,8 @@
         managed = False
         db_table = 'drafts'</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IyBjbGFzcyBEZWxpdmVyeU1ldGhvZHMobW9kZWxzLk1vZGVsKToKIyAgICAgbmFtZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTUsIGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKIyAgICAgZGVzYyA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQojICAgICBjcmVhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQojICAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQoKIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIG1hbmFnZWQgPSBGYWxzZQojICAgICAgICAgZGJfdGFibGUgPSAnZGVsaXZlcnlfbWV0aG9kcycK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJJRDogIiArIHN0cih1LmlkKSArICJcdE5hbWU6ICIgKyB1Lm5hbWUpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRqYW5nbwo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>s</text>
+      <register name=":" type="4">
+        <text>220</text>
       </register>
     </registers>
     <search>
@@ -118,7 +124,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>220</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
