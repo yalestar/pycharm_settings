@@ -10,11 +10,11 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505346869753">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="613" column="63" />
-        <mark key="^" line="613" column="62" />
-        <mark key="." line="613" column="63" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505409459757">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="614" column="63" />
+        <mark key="^" line="614" column="62" />
+        <mark key="." line="614" column="63" />
       </file>
       <file name="/Python Console" timestamp="1505402386399">
         <mark key="[" line="0" column="0" />
@@ -30,10 +30,11 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505404631943">
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505409756026">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
