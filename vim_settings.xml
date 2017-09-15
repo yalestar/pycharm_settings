@@ -33,11 +33,11 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505493572877">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="22" column="1" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505496705709">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -67,10 +67,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByb3cuc2V0U3RyaW5nKDEsIHR0LnByaW1hcnlfbmFtZSkK</text>
