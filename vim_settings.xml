@@ -10,10 +10,10 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505424026923">
-        <mark key="[" line="219" column="8" />
-        <mark key="]" line="218" column="13" />
-        <mark key="." line="218" column="13" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505490608031">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
         <mark key="^" line="218" column="13" />
       </file>
       <file name="/Python Console" timestamp="1505424056980">
@@ -56,8 +56,8 @@
       <jump line="35" column="31" filename="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIHR0c1swXToKICAgICAgICAjICAgICByZXR1cm4gdHRzWzBdCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -66,27 +66,30 @@
         <text encoding="base64">ICAgICdkYicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0dFswXS5wcmltYXJ5X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHR0c1swXToKICAgICAgICAjICAgICByZXR1cm4gdHRzWzBdCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHR0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0dFswXS5wcmltYXJ5X25hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5kYyA9ICc1OTc0NjAwMTUwNCcK</text>
+        <text encoding="base64">ICAgIGlmIHR0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5kYyA9ICc1OTc0NjAwMTUwNCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjdCA9IENvbmRpdGlvblRyZWF0bWVudHMub2JqZWN0cy5nZXQocGs9MTgyMSkKIyBwcmludCBjdC5jb25kaXRpb24KIyBwcmludCBjdC50cmVhdG1lbnQucHJpbWFyeV9uYW1lCiMgcHJpbnQgY3QudHJlYXRtZW50LnRyZWF0bWVudF9jYXRlZ29yeS5uYW1lCgp1c2VyID0gVXNlcnMub2JqZWN0cy5nZXQocGs9MzgwNykKcHJpbnQgdXNlci5vcmdhbml6YXRpb24KCiMgcHJpbnQgdXNlci5vcmdhbml6YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgCg==</text>
+        <text encoding="base64">IyBjdCA9IENvbmRpdGlvblRyZWF0bWVudHMub2JqZWN0cy5nZXQocGs9MTgyMSkKIyBwcmludCBjdC5jb25kaXRpb24KIyBwcmludCBjdC50cmVhdG1lbnQucHJpbWFyeV9uYW1lCiMgcHJpbnQgY3QudHJlYXRtZW50LnRyZWF0bWVudF9jYXRlZ29yeS5uYW1lCgp1c2VyID0gVXNlcnMub2JqZWN0cy5nZXQocGs9MzgwNykKcHJpbnQgdXNlci5vcmdhbml6YXRpb24KCiMgcHJpbnQgdXNlci5vcmdhbml6YXRpb24K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">cHJpbnQgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyBmb3IgdSBpbiBDb25kaXRpb25UcmVhdG1lbnRzLm9iamVjdHMuYWxsKCk6Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>class Genders(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
     desc = models.CharField(max_length=255, blank=True, null=True)
@@ -97,22 +100,6 @@
     class Meta:
         managed = False
         db_table = 'genders'</text>
-      </register>
-      <register name="9" type="4">
-        <text>class Drafts(models.Model):
-    item_type = models.CharField(max_length=255)
-    item_id = models.IntegerField()
-    event = models.CharField(max_length=255)
-    whodunnit = models.CharField(max_length=255, blank=True, null=True)
-    object = models.TextField(blank=True, null=True)
-    previous_draft = models.TextField(blank=True, null=True)
-    created_at = models.DateTimeField()
-    updated_at = models.DateTimeField()
-    object_changes = models.TextField(blank=True, null=True)
-
-    class Meta:
-        managed = False
-        db_table = 'drafts'</text>
       </register>
       <register name=":" type="4">
         <text>220</text>
