@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1505507541974">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1505346359968">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="17" column="5" />
@@ -33,11 +36,11 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505496705709">
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="32" column="17" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505507461521">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -67,10 +70,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>grade</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>grade</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByb3cuc2V0U3RyaW5nKDEsIHR0LnByaW1hcnlfbmFtZSkK</text>
