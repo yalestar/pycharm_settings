@@ -13,14 +13,16 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505490831534">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="148" column="43" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505508436310">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="160" column="10" />
+        <mark key="^" line="160" column="10" />
+        <mark key="." line="160" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1505424056980">
+      <file name="/Python Console" timestamp="1505508416334">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1505424063717">
         <mark key="[" line="0" column="0" />
@@ -70,10 +72,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grade</text>
+        <text>rom</text>
       </register>
       <register name="-" type="4">
-        <text>grade</text>
+        <text>rom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByb3cuc2V0U3RyaW5nKDEsIHR0LnByaW1hcnlfbmFtZSkK</text>
