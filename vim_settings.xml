@@ -13,18 +13,18 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505517358047">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="160" column="10" />
-        <mark key="^" line="160" column="10" />
-        <mark key="." line="160" column="10" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1505779474281">
+        <mark key="[" line="230" column="22" />
+        <mark key="]" line="235" column="0" />
+        <mark key="^" line="235" column="3" />
+        <mark key="." line="235" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1505515077462">
+      <file name="/Python Console" timestamp="1505779228110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1505515083267">
+      <file name="/fragment.py" timestamp="1505779234446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
@@ -38,12 +38,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505775654362">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="46" column="25" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505779084645">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="34" column="60" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="32" column="32" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -73,41 +73,41 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tr.primary_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAwOiAnSScsCiAgICAgICAgICAgIDExOiAnRicsCiAgICAgICAgICAgIDEyOiAnRCcsCiAgICAgICAgICAgIDEzOiAnQycsCiAgICAgICAgICAgIDE0OiAnQicsCiAgICAgICAgICAgIDE1OiAnQScKICAgICAgICB9LmdldChzZWxmLnNjb3JlLCAnTicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tr.primary_name</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcm93LnNldFN0cmluZygyLCB0ci5wcmltYXJ5X25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93LnNldFN0cmluZygyLCB0ci5wcmltYXJ5X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAwOiAnSScsCiAgICAgICAgICAgIDExOiAnRicsCiAgICAgICAgICAgIDEyOiAnRCcsCiAgICAgICAgICAgIDEzOiAnQycsCiAgICAgICAgICAgIDE0OiAnQicsCiAgICAgICAgICAgIDE1OiAnQScKICAgICAgICB9LmdldChzZWxmLnNjb3JlLCAnTicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbmRjICsgIiBpcyAiICsgY3QuZ3JhZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93LnNldFN0cmluZygyLCB0ci5wcmltYXJ5X25hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZyb20gZGIgaW1wb3J0IHRhYmxlX2RlZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbmRjICsgIiBpcyAiICsgY3QuZ3JhZGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGFibGVfZGVmLmFkZENvbHVtbignaWQnLCBUeXBlLklOVEVHRVIpCnRhYmxlX2RlZi5hZGRDb2x1bW4oJ25kYycsIFR5cGUuVU5JQ09ERV9TVFJJTkcpCnRhYmxlX2RlZi5hZGRDb2x1bW4oJ3RyZWF0bWVudF9uYW1lJywgVHlwZS5VTklDT0RFX1NUUklORykK</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gZGIgaW1wb3J0IHRhYmxlX2RlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">dGFibGVfZGVmLmFkZENvbHVtbignaWQnLCBUeXBlLklOVEVHRVIpCnRhYmxlX2RlZi5hZGRDb2x1bW4oJ25kYycsIFR5cGUuVU5JQ09ERV9TVFJJTkcpCnRhYmxlX2RlZi5hZGRDb2x1bW4oJ3RyZWF0bWVudF9uYW1lJywgVHlwZS5VTklDT0RFX1NUUklORykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmRpdGlvbl9pZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHR0c1swXToKICAgICAgICAjICAgICByZXR1cm4gdHRzWzBdCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">ICAgIGNvbmRpdGlvbl9pZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0dFswXS5wcmltYXJ5X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHR0c1swXToKICAgICAgICAjICAgICByZXR1cm4gdHRzWzBdCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHR0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0dFswXS5wcmltYXJ5X25hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
