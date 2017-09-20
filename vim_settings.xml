@@ -38,12 +38,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505779084645">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505935862776">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="34" column="60" />
-        <mark key="]" line="32" column="32" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="32" />
         <mark key="^" line="49" column="25" />
-        <mark key="." line="32" column="32" />
+        <mark key="." line="48" column="32" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -73,11 +73,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAwOiAnSScsCiAgICAgICAgICAgIDExOiAnRicsCiAgICAgICAgICAgIDEyOiAnRCcsCiAgICAgICAgICAgIDEzOiAnQycsCiAgICAgICAgICAgIDE0OiAnQicsCiAgICAgICAgICAgIDE1OiAnQScKICAgICAgICB9LmdldChzZWxmLnNjb3JlLCAnTicpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcm93LnNldFN0cmluZygyLCB0ci5wcmltYXJ5X25hbWUpCg==</text>
