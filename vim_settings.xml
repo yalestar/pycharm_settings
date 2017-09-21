@@ -38,12 +38,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1505935862776">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="32" />
-        <mark key="^" line="49" column="25" />
-        <mark key="." line="48" column="32" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1506023885100">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="54" column="32" />
+        <mark key="^" line="55" column="25" />
+        <mark key="." line="54" column="32" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -58,8 +58,8 @@
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1505515442016">
-        <mark key="[" line="15" column="29" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506024033450">
+        <mark key="[" line="12" column="29" />
         <mark key="]" line="15" column="29" />
         <mark key="^" line="14" column="69" />
         <mark key="." line="15" column="29" />
