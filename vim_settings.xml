@@ -19,7 +19,7 @@
         <mark key="^" line="235" column="3" />
         <mark key="." line="235" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1505779228110">
+      <file name="/Python Console" timestamp="1506367449216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -38,12 +38,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1506023885100">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1506367202666">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="54" column="32" />
-        <mark key="^" line="55" column="25" />
-        <mark key="." line="54" column="32" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
@@ -58,11 +58,11 @@
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506024033450">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="15" column="29" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506367934710">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
         <mark key="^" line="14" column="69" />
-        <mark key="." line="15" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -74,13 +74,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fill_date</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fill_date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93LnNldFN0cmluZygyLCB0ci5wcmltYXJ5X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZV9kZWYuYWRkQ29sdW1uKCdmaWxsX2RhdGUnLCBUeXBlLkRBVEUpICMgNgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAwOiAnSScsCiAgICAgICAgICAgIDExOiAnRicsCiAgICAgICAgICAgIDEyOiAnRCcsCiAgICAgICAgICAgIDEzOiAnQycsCiAgICAgICAgICAgIDE0OiAnQicsCiAgICAgICAgICAgIDE1OiAnQScKICAgICAgICB9LmdldChzZWxmLnNjb3JlLCAnTicpCg==</text>
