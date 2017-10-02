@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1506467675756">
+      <file name="/Python Console" timestamp="1506976263892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1505779234446">
+      <file name="/fragment.py" timestamp="1506976300662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1506727032260">
@@ -49,11 +49,8 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1506975278043">
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="41" column="5" />
-        <mark key="." line="41" column="5" />
-        <mark key="^" line="41" column="5" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1506976319197">
+        <mark key="'" line="82" column="9" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
         <mark key="[" line="10" column="26" />
@@ -84,6 +81,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
       <jump line="34" column="9" filename="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" />
+      <jump line="82" column="9" filename="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
