@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1506985909677">
+      <file name="/Python Console" timestamp="1506987482293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1506985939779">
+      <file name="/fragment.py" timestamp="1506987495581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -29,7 +29,6 @@
       <file name="/a.dummy" timestamp="1506978177884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tableausdk/Extract.py" timestamp="1506977882685" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1506467694743">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="33" column="49" />
@@ -51,7 +50,7 @@
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tableausdk/Server.py" timestamp="1506985908576" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1506987501833" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="37" column="0" />
@@ -80,7 +79,6 @@
         <mark key="'" line="39" column="31" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/claims_flattener.py" timestamp="1506981104563" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
