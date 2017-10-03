@@ -50,7 +50,6 @@
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1506987501833" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="37" column="0" />
@@ -79,6 +78,7 @@
         <mark key="'" line="39" column="31" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/publisher.py" timestamp="1507068834485" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
