@@ -55,9 +55,14 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -78,6 +83,7 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
