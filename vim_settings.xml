@@ -16,19 +16,21 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1507069781041">
+      <file name="/Python Console" timestamp="1508270234999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1506987495581">
+      <file name="/fragment.py" timestamp="1508270249725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.envs/wrangling/lib/python2.7/site-packages/slate/classes.py" timestamp="1508270194800" />
       <file name="/a.dummy" timestamp="1506978177884">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.envs/wrangling/lib/python2.7/site-packages/pdfminer/layout.py" timestamp="1508270342918" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1506467694743">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="33" column="49" />
@@ -57,6 +59,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
+        <mark key="[" line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1506982769155">
         <mark key="[" line="49" column="33" />
         <mark key="]" line="49" column="33" />
@@ -77,11 +82,11 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/.envs/wrangling/lib/python2.7/site-packages/pdfminer/converter.py" timestamp="1508270262756" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/treatment.py" timestamp="1505421037337">
         <mark key="'" line="39" column="31" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/publisher.py" timestamp="1507068834485" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
