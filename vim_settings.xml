@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1517857979518">
+      <file name="/Python Console" timestamp="1517864410624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1508270249725">
+      <file name="/fragment.py" timestamp="1517864396085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -38,11 +38,11 @@
         <mark key="]" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/tabSample.py" timestamp="1517857977493">
-        <mark key="[" line="244" column="31" />
-        <mark key="]" line="244" column="31" />
-        <mark key="." line="244" column="31" />
-        <mark key="^" line="164" column="13" />
+      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/tabSample.py" timestamp="1517864266238">
+        <mark key="[" line="242" column="45" />
+        <mark key="]" line="250" column="20" />
+        <mark key="." line="250" column="20" />
+        <mark key="^" line="250" column="20" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/tableauSDKSample.py" timestamp="1506978586083">
         <mark key="[" line="169" column="0" />
@@ -58,6 +58,12 @@
       </file>
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/yojak.py" timestamp="1517864204234">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+        <mark key="^" line="47" column="74" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
         <mark key="'" line="36" column="9" />
@@ -75,6 +81,7 @@
         <mark key="." line="49" column="33" />
         <mark key="^" line="82" column="43" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/dataextractor/lib/python2.7/site-packages/tableausdk/Extract.py" timestamp="1517864369415" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="8" column="0" />
@@ -111,46 +118,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, options['spatial']</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>, options['spatial']</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByb3cuc2V0Q2hhclN0cmluZygxLCAnQmVhbnMnKSAgIyBQcm9kdWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZXh0cmFjdC5oYXNUYWJsZSgnRXh0cmFjdCcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyAgIFB1Ymxpc2ggRXh0cmFjdAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojICAgKE5PVEU6IFRoaXMgZnVuY3Rpb24gYXNzdW1lcyB0aGF0IHRoZSBUYWJsZWF1IFNESyBTZXJ2ZXIgQVBJIGlzIGluaXRpYWxpemVkKQo=</text>
+        <text encoding="base64">ICAgIGV4dHJhY3QgPSBjcmVhdGVPck9wZW5FeHRyYWN0KGZpbGVuYW1lKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdXNlU3BhdGlhbDogcm93LnNldFNwYXRpYWwoOCwgIlBPSU5UICgzMCAxMCkiKSAgIyBEZXN0aW5hdGlvbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBEZWZpbmUgVGFibGUgU2NoZW1hIChJZiB3ZSBhcmUgY3JlYXRpbmcgYSBuZXcgZXh0cmFjdCkKICAgICAgICAjIChOT1RFOiBJbiBUYWJsZWF1IERhdGEgRW5naW5lLCBhbGwgdGFibGVzIG11c3QgYmUgbmFtZWQgJ0V4dHJhY3QnKQ==</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-        useSpatial</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIGNyZWF0ZU9yT3BlbkV4dHJhY3QoZmlsZW5hbWUpOgogICAgcmV0dXJuIGV4dHJhY3QKCgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-        useSpatial</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHBvcHVsYXRlRXh0cmFjdChleHRyYWN0KToKICAgIHRyeToKCgogICAgZXhjZXB0IFRhYmxlYXVFeGNlcHRpb24sIGU6CiAgICAgICAgcHJpbnQgJ0EgZmF0YWwgZXJyb3Igb2NjdXJyZWQgd2hpbGUgcG9wdWxhdGluZyB0aGUgZXh0cmFjdDpcbicsIGUsICdcbkV4aXRpbmcgbm93LicKICAgICAgICBleGl0KC0xKQoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ClNlcnZlckFQSS5pbml0aWFsaXplKCkKaG9zdG5hbWUgPSAnaHR0cHM6Ly9yZXBvcnRpbmcubWVkc2F2dnkuY29tJwp1c2VybmFtZSA9ICdNZWRzYXZ2eScKcGFzc3dvcmQgPSAnY3ViaXQtb3JsYW5kby1zd2FyZCcKc2l0ZV9pZCA9ICdEZWZhdWx0JwpkYXRhc291cmNlID0gJ3doYXRldnMnCgojIHByb2plY3RfbmFtZSA9ICdEZWZhdWx0JwojIHRyeToKIyAgICAgcHJpbnQoIk9wZW5pbmcgU2VydmVyLi4uLi4uIikKIyAgICAgc2MgPSBTZXJ2ZXJDb25uZWN0aW9uKCkKIyAgICAgcHJpbnQoIkNvbm5lY3Rpbmc/IikKIyAgICAgc2MuY29ubmVjdChob3N0bmFtZSwgdXNlcm5hbWUsIHBhc3N3b3JkLCBzaXRlX2lkKQojICAgICBwcmludCgiQ29ubmVjdGVkIikKIyAgICAgc2MucHVibGlzaEV4dHJhY3QodHMsIHByb2plY3RfbmFtZSwgZGF0YXNvdXJjZSwgZmFsc2UpCiMgICAgIHByaW50KGNvbikKIyAgICAgU2VydmVyQVBJLmNsZWFudXAoKQojICAgICBleC5jbG9zZSgpCiMgICAgIHByaW50KHRzKQojICAgICBFeHRyYWN0QVBJLmNsZWFudXAoKQojIGV4Y2VwdCBUYWJsZWF1RXhjZXB0aW9uLCBlOgojICAgICBlcnJvck1lc3NhZ2UgPSAnQSBmYXRhbCBlcnJvciBvY2N1cnJlZCB3aGlsZSBwdWJsaXNoaW5nIHRoZSBleHRyYWN0OlxuJwojICAgICBpZiBlLmVycm9yQ29kZSA9PSBSZXN1bHQuSU5URVJOQUxfRVJST1I6CiMgICAgICAgICBlcnJvck1lc3NhZ2UgKz0gJ0lOVEVSTkFMX0VSUk9SIC0gQ291bGQgbm90IHBhcnNlIHRoZSByZXNwb25zZSBmcm9tIHRoZSBzZXJ2ZXIuJwojICAgICBlbGlmIGUuZXJyb3JDb2RlID09IFJlc3VsdC5JTlZBTElEX0FSR1VNRU5UOgojICAgICAgICAgZXJyb3JNZXNzYWdlICs9ICdJTlZBTElEX0FSR1VNRU5UIC0gJyArIGUubWVzc2FnZQojICAgICBlbGlmIGUuZXJyb3JDb2RlID09IFJlc3VsdC5DVVJMX0VSUk9SOgojICAgICAgICAgZXJyb3JNZXNzYWdlICs9ICdDVVJMX0VSUk9SIC0gJyArIGUubWVzc2FnZQojICAgICBlbGlmIGUuZXJyb3JDb2RlID09IFJlc3VsdC5TRVJWRVJfRVJST1I6CiMgICAgICAgICBlcnJvck1lc3NhZ2UgKz0gJ1NFUlZFUl9FUlJPUiAtICcgKyBlLm1lc3NhZ2UKIyAgICAgZWxpZiBlLmVycm9yQ29kZSA9PSBSZXN1bHQuTk9UX0FVVEhFTlRJQ0FURUQ6CiMgICAgICAgICBlcnJvck1lc3NhZ2UgKz0gJ05PVF9BVVRIRU5USUNBVEVEIC0gJyArIGUubWVzc2FnZQojICAgICBlbGlmIGUuZXJyb3JDb2RlID09IFJlc3VsdC5CQURfUEFZTE9BRDoKIyAgICAgICAgIGVycm9yTWVzc2FnZSArPSAnQkFEX1BBWUxPQUQgLSBVbmtub3duIHJlc3BvbnNlIGZyb20gdGhlIHNlcnZlci4gTWFrZSBzdXJlIHRoaXMgdmVyc2lvbiBvZiBUYWJsZWF1IEFQSSBpcyBjb21wYXRpYmxlIHdpdGggeW91ciBzZXJ2ZXIuJwojICAgICBlbGlmIGUuZXJyb3JDb2RlID09IFJlc3VsdC5JTklUX0VSUk9SOgojICAgICAgICAgZXJyb3JNZXNzYWdlICs9ICdJTklUX0VSUk9SIC0gJyArIGUubWVzc2FnZQojICAgICBlbHNlOgojICAgICAgICAgZXJyb3JNZXNzYWdlICs9ICdBbiB1bmtub3duIGVycm9yIG9jY3VyZWQuJwojICAgICBwcmludChlcnJvck1lc3NhZ2UsICdcbkV4aXRpbmcgbm93Licp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZS5pbnNlcnQocm93KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBFeHRyYWN0IE9iamVjdAogICAgICAgICMgKE5PVEU6IFRoZSBFeHRyYWN0IGNvbnN0cnVjdG9yIG9wZW5zIGFuIGV4aXN0aW5nIGV4dHJhY3Qgd2l0aCB0aGUKICAgICAgICAjICBnaXZlbiBmaWxlbmFtZSBpZiBvbmUgZXhpc3RzIG9yIGNyZWF0ZXMgYSBuZXcgZXh0cmFjdCB3aXRoIHRoZSBnaXZlbgogICAgICAgICMgIGZpbGVuYW1lIGlmIG9uZSBkb2VzIG5vdCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3cuc2V0Q2hhclN0cmluZygwLCAnQmVhbnMnKSAgIyBQcm9kdWN0Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBJbnNlcnQgRGF0YQ==</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-    useSpatial</text>
+      <register name="8" type="2">
+        <text encoding="base64">aWYgKG9wdGlvbnNbJ3B1Ymxpc2gnXSk6CiAgICAjIEluaXRpYWxpemUgVGFibGVhdSBTZXJ2ZXIgQVBJCiAgICBTZXJ2ZXJBUEkuaW5pdGlhbGl6ZSgpCgogICAgIyBQdWJsaXNoIHRoZSBFeHRyYWN0CiAgICBwdWJsaXNoRXh0cmFjdChvcHRpb25zWydmaWxlbmFtZSddLCBvcHRpb25zWydwcm9qZWN0X25hbWUnXSwgb3B0aW9uc1snZGF0YXNvdXJjZV9uYW1lJ10sIG9wdGlvbnNbJ292ZXJ3cml0ZSddLAogICAgICAgICAgICAgICAgICAgb3B0aW9uc1snaG9zdG5hbWUnXSwgb3B0aW9uc1sndXNlcm5hbWUnXSwgb3B0aW9uc1sncGFzc3dvcmQnXSwgb3B0aW9uc1snc2l0ZV9pZCddKQoKICAgICMgQ2xlYW4gdXAgVGFibGVhdSBTZXJ2ZXIgQVBJCiAgICBTZXJ2ZXJBUEkuY2xlYW51cCgpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcm93LnNldFN0cmluZygwLCB0cmVhdG1lbnQudHJlYXRtZW50X25hbWUpCg==</text>
+        <text encoding="base64">ICAgIGlmIChvcHRpb25zWydidWlsZCddKToK</text>
       </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -165,6 +169,7 @@
         <entry>27</entry>
         <entry>26d</entry>
         <entry>24</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
