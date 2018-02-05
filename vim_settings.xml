@@ -13,13 +13,13 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517864914347">
+      <file name="/Dummy.txt" timestamp="1517866155777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1517864976780">
+      <file name="/Python Console" timestamp="1517866226470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -64,6 +64,9 @@
         <mark key="]" line="12" column="71" />
         <mark key="." line="12" column="71" />
         <mark key="^" line="47" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517866186756">
+        <mark key="[" line="44" column="46" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
         <mark key="'" line="36" column="9" />
