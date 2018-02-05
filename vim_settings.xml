@@ -13,13 +13,13 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517857756132">
+      <file name="/Dummy.txt" timestamp="1517864914347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1517864410624">
+      <file name="/Python Console" timestamp="1517864976780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -59,7 +59,7 @@
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/yojak.py" timestamp="1517864204234">
+      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/yojak.py" timestamp="1517864991314">
         <mark key="[" line="12" column="71" />
         <mark key="]" line="12" column="71" />
         <mark key="." line="12" column="71" />
@@ -81,7 +81,6 @@
         <mark key="." line="49" column="33" />
         <mark key="^" line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/dataextractor/lib/python2.7/site-packages/tableausdk/Extract.py" timestamp="1517864369415" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="8" column="0" />
