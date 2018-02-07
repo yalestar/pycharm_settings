@@ -6,20 +6,15 @@
       <file name="/start_script.py" timestamp="1505507541974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1506467860549">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-        <mark key="^" line="3" column="9" />
-        <mark key="o" line="17" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1518025247926">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518046641973">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1518022423757">
+      <file name="/Python Console" timestamp="1518046408711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -29,6 +24,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518046432506">
+        <mark key="[" line="3" column="15" />
+      </file>
       <file name="/a.dummy" timestamp="1506978177884">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,12 +35,6 @@
         <mark key="]" line="250" column="20" />
         <mark key="." line="250" column="20" />
         <mark key="^" line="250" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/main.py" timestamp="1506467694743">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="33" column="49" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/tableauSDKSample.py" timestamp="1506978586083">
         <mark key="[" line="169" column="0" />
@@ -59,42 +51,19 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="47" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517964320120">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="36" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/mang.py" timestamp="1518043918589" />
       <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
         <mark key="[" line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1518022372710">
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="49" column="33" />
-        <mark key="." line="49" column="33" />
-        <mark key="^" line="82" column="43" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="12" column="34" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
-        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Django-ORM-master/main.py" timestamp="1505261119143">
         <mark key="[" line="12" column="34" />
@@ -107,6 +76,45 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1506467860549">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="3" column="9" />
+        <mark key="o" line="17" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518025247926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/mang.py" timestamp="1518046605204">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="43" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1518022372710">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="82" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
+        <mark key="[" line="28" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="29" filename="$USER_HOME$/dev/analytics/data_extractor/connection.py" />
@@ -116,51 +124,48 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/analytics/data_extractor/main.py" />
       <jump line="34" column="9" filename="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" />
       <jump line="82" column="9" filename="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" />
+      <jump line="20" column="15" filename="$USER_HOME$/dev/analytics/data_extractor/mang.py" />
+      <jump line="43" column="11" filename="$USER_HOME$/dev/analytics/data_extractor/mang.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIHQuaWQsCiAgICAgICAgICAgby5uYW1lIGFzICdvcmdfbmFtZScsCiAgICAgICAgICAgZWwuY3JlYXRlZF9hdCwKICAgICAgICAgICB0LnByaW1hcnlfbmFtZSBhcyAndHJlYXRtZW50X25hbWUnCiAgICBGUk9NIGV2ZW50X2xvZ3MgZWwKICAgIEpPSU4gdHJlYXRtZW50cyB0IE9OIGVsLnJlc291cmNlX2lkID0gdC5pZAogICAgSk9JTiBvcmdhbml6YXRpb25zIG8gT04gZWwub3JnYW5pemF0aW9uX2lkID0gby5pZAogICAgV0hFUkUgcmVzb3VyY2VfdHlwZSA9ICdUcmVhdG1lbnQnCiAgICBhbmQgZWwuIGNyZWF0ZWRfYXQgPCAnMjAxNy0wOS0zMCcKICAgICIiIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>sugar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgZXh0cmFjdC5oYXNUYWJsZSgnRXh0cmFjdCcpOgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIHQuaWQsCiAgICAgICAgICAgby5uYW1lIGFzICdvcmdfbmFtZScsCiAgICAgICAgICAgZWwuY3JlYXRlZF9hdCwKICAgICAgICAgICB0LnByaW1hcnlfbmFtZSBhcyAndHJlYXRtZW50X25hbWUnCiAgICBGUk9NIGV2ZW50X2xvZ3MgZWwKICAgIEpPSU4gdHJlYXRtZW50cyB0IE9OIGVsLnJlc291cmNlX2lkID0gdC5pZAogICAgSk9JTiBvcmdhbml6YXRpb25zIG8gT04gZWwub3JnYW5pemF0aW9uX2lkID0gby5pZAogICAgV0hFUkUgcmVzb3VyY2VfdHlwZSA9ICdUcmVhdG1lbnQnCiAgICBhbmQgZWwuIGNyZWF0ZWRfYXQgPCAnMjAxNy0wOS0zMCcKICAgICIiIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiMgRXh0cmFjdEFQSS5pbml0aWFsaXplKCkKIwojIHRzID0gdGltZS5zdHJmdGltZSgic2VhcmNoZXNfY29uZGl0aW9uc190cmVhdG1lbnRzXyVZJW0lZC0lSCVNJVMiICsgIi50ZGUiKQojIGV4ID0gRXh0cmFjdCh0cykKIyB0YWJsZV9kZWYgPSBjcmVhdGVfdGFibGUoKQojIHRhYiA9IGV4LmFkZFRhYmxlKCdFeHRyYWN0JywgdGFibGVfZGVmKQ==</text>
+        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBzcWwgPSAiIiIKICAgICAgU0VMRUNUIAogICAgICAgIG8uaWQsCiAgICAgICAgby5uYW1lLAogICAgICAgIHRlcm0sCiAgICAgICAgICBjLm5hbWUgQVMgJ2NvbmRpdGlvbicsCiAgICAgICAgICBjLmlkIEFTICdjb25kaXRpb25faWQnLAogICAgICAgICAgdC5pZCBBUyAndHJlYXRtZW50X2lkJywKICAgICAgICAgIENPVU5UKHRlcm0pIEFTICdzZWFyY2hlcycKICAgICAgRlJPTQogICAgICAgICAgc2VhcmNoX2xvZ3Mgc2xvZwogICAgICAgICAgICAgIEpPSU4KICAgICAgICAgIG9yZ2FuaXphdGlvbnMgbyBPTiBvLmlkID0gc2xvZy5vcmdhbml6YXRpb25faWQKICAgICAgICAgICAgICBMRUZUIEpPSU4KICAgICAgICAgIGNvbmRpdGlvbnMgYyBPTiBjLmlkID0gc2xvZy5jb25kaXRpb25faWQKICAgICAgICAgICAgICBMRUZUIEpPSU4KICAgICAgICAgIHRyZWF0bWVudHMgdCBPTiB0LmlkID0gc2xvZy50cmVhdG1lbnRfaWQKICAgICAgR1JPVVAgQlkgby5pZCwgdGVybSwgYy5pZCwgdC5pZAogICAgICBIQVZJTkcgKGNvbmRpdGlvbl9pZCBJUyBOT1QgTlVMTCkKICAgICAgICAgIE9SICh0cmVhdG1lbnRfaWQgSVMgTk9UIE5VTEwpOwogICAgIiIiCgogICAgdHJlYXRtZW50cyA9IFRyZWF0bWVudC5vYmplY3RzLnJhdyhzcWwpWzoxMF0KICAgIGZvciB0cmVhdG1lbnQgaW4gdHJlYXRtZW50czoKICAgICAgICBwcmludCB0cmVhdG1lbnQucHJpbWFyeV9uYW1l</text>
       </register>
-      <register name="4" type="4">
-        <text># ExtractAPI.initialize()
-#
-# ts = time.strftime(&quot;searches_conditions_treatments_%Y%m%d-%H%M%S&quot; + &quot;.tde&quot;)
-# ex = Extract(ts)
-# table_def = create_table()
-# tab = ex.addTable('Extract', table_def)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3QgPSBjcmVhdGVPck9wZW5FeHRyYWN0KGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgICMgbXlzdHJpbmcgPSAiIiJJIGxpa2UgdG8gZG8gc3R1ZmYgb24gJSh0dWUpcyIiIiAlIHsndHVlJzogZG9fc3R1ZmZ9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBEZWZpbmUgVGFibGUgU2NoZW1hIChJZiB3ZSBhcmUgY3JlYXRpbmcgYSBuZXcgZXh0cmFjdCkKICAgICAgICAjIChOT1RFOiBJbiBUYWJsZWF1IERhdGEgRW5naW5lLCBhbGwgdGFibGVzIG11c3QgYmUgbmFtZWQgJ0V4dHJhY3QnKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNxbCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZU9yT3BlbkV4dHJhY3QoZmlsZW5hbWUpOgogICAgcmV0dXJuIGV4dHJhY3QKCgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIHQuaWQsCiAgICAgICAgICAgby5uYW1lIGFzICdvcmdfbmFtZScsCiAgICAgICAgICAgZWwuY3JlYXRlZF9hdCwKICAgICAgICAgICB0LnByaW1hcnlfbmFtZSBhcyAndHJlYXRtZW50X25hbWUnCiAgICBGUk9NIGV2ZW50X2xvZ3MgZWwKICAgIEpPSU4gdHJlYXRtZW50cyB0IE9OIGVsLnJlc291cmNlX2lkID0gdC5pZAogICAgSk9JTiBvcmdhbml6YXRpb25zIG8gT04gZWwub3JnYW5pemF0aW9uX2lkID0gby5pZAogICAgV0hFUkUgcmVzb3VyY2VfdHlwZSA9ICdUcmVhdG1lbnQnCiAgICBhbmQgZWwuIGNyZWF0ZWRfYXQgPCAnMjAxNy0wOS0zMCcKICAgICIiIg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHBvcHVsYXRlRXh0cmFjdChleHRyYWN0KToKICAgIHRyeToKCgogICAgZXhjZXB0IFRhYmxlYXVFeGNlcHRpb24sIGU6CiAgICAgICAgcHJpbnQgJ0EgZmF0YWwgZXJyb3Igb2NjdXJyZWQgd2hpbGUgcG9wdWxhdGluZyB0aGUgZXh0cmFjdDpcbicsIGUsICdcbkV4aXRpbmcgbm93LicKICAgICAgICBleGl0KC0xKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiMgRXh0cmFjdEFQSS5pbml0aWFsaXplKCkKIwojIHRzID0gdGltZS5zdHJmdGltZSgic2VhcmNoZXNfY29uZGl0aW9uc190cmVhdG1lbnRzXyVZJW0lZC0lSCVNJVMiICsgIi50ZGUiKQojIGV4ID0gRXh0cmFjdCh0cykKIyB0YWJsZV9kZWYgPSBjcmVhdGVfdGFibGUoKQojIHRhYiA9IGV4LmFkZFRhYmxlKCdFeHRyYWN0JywgdGFibGVfZGVmKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>18</text>
+        <text>10d</text>
       </register>
     </registers>
     <search>
@@ -176,6 +181,7 @@
         <entry>26d</entry>
         <entry>24</entry>
         <entry>18</entry>
+        <entry>10d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
