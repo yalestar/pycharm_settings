@@ -13,13 +13,13 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="17" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517963244637">
+      <file name="/Dummy.txt" timestamp="1517964070683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1517963392573">
+      <file name="/Python Console" timestamp="1517964399429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,7 +65,7 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="47" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517963389416">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517964320120">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
@@ -104,6 +104,7 @@
         <mark key="'" line="39" column="31" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/searches_to_conditions.py" timestamp="1517964395894" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
@@ -122,40 +123,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgZXh0cmFjdC5oYXNUYWJsZSgnRXh0cmFjdCcpOgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text># ExtractAPI.initialize()
+#
+# ts = time.strftime(&quot;searches_conditions_treatments_%Y%m%d-%H%M%S&quot; + &quot;.tde&quot;)
+# ex = Extract(ts)
+# table_def = create_table()
+# tab = ex.addTable('Extract', table_def)</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGV4dHJhY3QgPSBjcmVhdGVPck9wZW5FeHRyYWN0KGZpbGVuYW1lKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgIyBEZWZpbmUgVGFibGUgU2NoZW1hIChJZiB3ZSBhcmUgY3JlYXRpbmcgYSBuZXcgZXh0cmFjdCkKICAgICAgICAjIChOT1RFOiBJbiBUYWJsZWF1IERhdGEgRW5naW5lLCBhbGwgdGFibGVzIG11c3QgYmUgbmFtZWQgJ0V4dHJhY3QnKQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZGVmIGNyZWF0ZU9yT3BlbkV4dHJhY3QoZmlsZW5hbWUpOgogICAgcmV0dXJuIGV4dHJhY3QKCgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZGVmIHBvcHVsYXRlRXh0cmFjdChleHRyYWN0KToKICAgIHRyeToKCgogICAgZXhjZXB0IFRhYmxlYXVFeGNlcHRpb24sIGU6CiAgICAgICAgcHJpbnQgJ0EgZmF0YWwgZXJyb3Igb2NjdXJyZWQgd2hpbGUgcG9wdWxhdGluZyB0aGUgZXh0cmFjdDpcbicsIGUsICdcbkV4aXRpbmcgbm93LicKICAgICAgICBleGl0KC0xKQoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBFeHRyYWN0IE9iamVjdAogICAgICAgICMgKE5PVEU6IFRoZSBFeHRyYWN0IGNvbnN0cnVjdG9yIG9wZW5zIGFuIGV4aXN0aW5nIGV4dHJhY3Qgd2l0aCB0aGUKICAgICAgICAjICBnaXZlbiBmaWxlbmFtZSBpZiBvbmUgZXhpc3RzIG9yIGNyZWF0ZXMgYSBuZXcgZXh0cmFjdCB3aXRoIHRoZSBnaXZlbgogICAgICAgICMgIGZpbGVuYW1lIGlmIG9uZSBkb2VzIG5vdCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgIyBJbnNlcnQgRGF0YQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aWYgKG9wdGlvbnNbJ3B1Ymxpc2gnXSk6CiAgICAjIEluaXRpYWxpemUgVGFibGVhdSBTZXJ2ZXIgQVBJCiAgICBTZXJ2ZXJBUEkuaW5pdGlhbGl6ZSgpCgogICAgIyBQdWJsaXNoIHRoZSBFeHRyYWN0CiAgICBwdWJsaXNoRXh0cmFjdChvcHRpb25zWydmaWxlbmFtZSddLCBvcHRpb25zWydwcm9qZWN0X25hbWUnXSwgb3B0aW9uc1snZGF0YXNvdXJjZV9uYW1lJ10sIG9wdGlvbnNbJ292ZXJ3cml0ZSddLAogICAgICAgICAgICAgICAgICAgb3B0aW9uc1snaG9zdG5hbWUnXSwgb3B0aW9uc1sndXNlcm5hbWUnXSwgb3B0aW9uc1sncGFzc3dvcmQnXSwgb3B0aW9uc1snc2l0ZV9pZCddKQoKICAgICMgQ2xlYW4gdXAgVGFibGVhdSBTZXJ2ZXIgQVBJCiAgICBTZXJ2ZXJBUEkuY2xlYW51cCgpCgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChvcHRpb25zWydidWlsZCddKToK</text>
+        <text encoding="base64">aWYgKG9wdGlvbnNbJ3B1Ymxpc2gnXSk6CiAgICAjIEluaXRpYWxpemUgVGFibGVhdSBTZXJ2ZXIgQVBJCiAgICBTZXJ2ZXJBUEkuaW5pdGlhbGl6ZSgpCgogICAgIyBQdWJsaXNoIHRoZSBFeHRyYWN0CiAgICBwdWJsaXNoRXh0cmFjdChvcHRpb25zWydmaWxlbmFtZSddLCBvcHRpb25zWydwcm9qZWN0X25hbWUnXSwgb3B0aW9uc1snZGF0YXNvdXJjZV9uYW1lJ10sIG9wdGlvbnNbJ292ZXJ3cml0ZSddLAogICAgICAgICAgICAgICAgICAgb3B0aW9uc1snaG9zdG5hbWUnXSwgb3B0aW9uc1sndXNlcm5hbWUnXSwgb3B0aW9uc1sncGFzc3dvcmQnXSwgb3B0aW9uc1snc2l0ZV9pZCddKQoKICAgICMgQ2xlYW4gdXAgVGFibGVhdSBTZXJ2ZXIgQVBJCiAgICBTZXJ2ZXJBUEkuY2xlYW51cCgpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>18</text>
