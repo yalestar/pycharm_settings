@@ -35,7 +35,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518119774505">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518119899884">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
         <mark key="." line="6" column="27" />
@@ -133,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org_id, l</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>org_id, l</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgZXh0cmFjdC5oYXNUYWJsZSgnRXh0cmFjdCcpOgo=</text>
