@@ -6,11 +6,6 @@
       <file name="/start_script.py" timestamp="1505507541974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518048314675">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
@@ -24,7 +19,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518047615386" />
       <file name="/a.dummy" timestamp="1506978177884">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,7 +107,6 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/searches_to_conditions.py" timestamp="1518047369556" />
     </filemarks>
     <jumps>
       <jump line="21" column="29" filename="$USER_HOME$/dev/analytics/data_extractor/connection.py" />
