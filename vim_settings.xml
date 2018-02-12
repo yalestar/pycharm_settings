@@ -22,10 +22,13 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
-        <mark key="^" line="235" column="3" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1518468867705">
+        <mark key="[" line="278" column="13" />
+        <mark key="]" line="278" column="13" />
+        <mark key="^" line="278" column="46" />
+        <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1518461061881">
+      <file name="/Python Console" timestamp="1518468959554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -35,10 +38,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518119899884">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518469016388">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1506978177884">
         <mark key="[" line="0" column="0" />
@@ -132,13 +136,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self</text>
+        <text>ondition</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>ondition</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZXh0cmFjdC5oYXNUYWJsZSgnRXh0cmFjdCcpOgo=</text>
+        <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciB0ZXJtIGluIHRlcm1zOgo=</text>
@@ -168,7 +172,7 @@
         <text encoding="base64">ICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIHQuaWQsCiAgICAgICAgICAgby5uYW1lIGFzICdvcmdfbmFtZScsCiAgICAgICAgICAgZWwuY3JlYXRlZF9hdCwKICAgICAgICAgICB0LnByaW1hcnlfbmFtZSBhcyAndHJlYXRtZW50X25hbWUnCiAgICBGUk9NIGV2ZW50X2xvZ3MgZWwKICAgIEpPSU4gdHJlYXRtZW50cyB0IE9OIGVsLnJlc291cmNlX2lkID0gdC5pZAogICAgSk9JTiBvcmdhbml6YXRpb25zIG8gT04gZWwub3JnYW5pemF0aW9uX2lkID0gby5pZAogICAgV0hFUkUgcmVzb3VyY2VfdHlwZSA9ICdUcmVhdG1lbnQnCiAgICBhbmQgZWwuIGNyZWF0ZWRfYXQgPCAnMjAxNy0wOS0zMCcKICAgICIiIg==</text>
       </register>
       <register name=":" type="4">
-        <text>10d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -185,6 +189,7 @@
         <entry>24</entry>
         <entry>18</entry>
         <entry>10d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
