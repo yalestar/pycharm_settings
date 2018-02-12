@@ -6,17 +6,17 @@
       <file name="/start_script.py" timestamp="1505507541974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1506467860549">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1518461032778">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
         <mark key="^" line="3" column="9" />
-        <mark key="o" line="17" column="6" />
+        <mark key="o" line="24" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518047290373">
+      <file name="/Dummy.txt" timestamp="1518460949396">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518119499592">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518460931067">
         <mark key="[" line="41" column="47" />
         <mark key="]" line="43" column="37" />
         <mark key="^" line="43" column="37" />
@@ -25,12 +25,12 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1506468163016">
         <mark key="^" line="235" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1518119782002">
+      <file name="/Python Console" timestamp="1518461061881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1518119791175">
+      <file name="/fragment.py" timestamp="1518461112712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -112,7 +112,6 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/searches_to_conditions.py" timestamp="1518116084823" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="29" />
