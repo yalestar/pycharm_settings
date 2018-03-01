@@ -1,0 +1,52 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://git.cambiahealth.com" />
+    <option name="token" value="YfP3a4U2bprxosMQCanj" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/analytics.git" />
+          <option name="name" value="analytics" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/analytics.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/balin.git" />
+          <option name="name" value="balin" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/balin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/docker-images.git" />
+          <option name="name" value="docker-images" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/docker-images.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/ganelon.git" />
+          <option name="name" value="ganelon" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/ganelon.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/maugris.git" />
+          <option name="name" value="maugris" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/maugris.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/paladin.git" />
+          <option name="name" value="paladin" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/paladin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.cambiahealth.com/remedygrade/rg-ops.git" />
+          <option name="name" value="rg-ops" />
+          <option name="namespace" value="remedygrade" />
+          <option name="sshUrl" value="git@git.cambiahealth.com:remedygrade/rg-ops.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
