@@ -18,12 +18,12 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1529538312810">
+      <file name="/Python Console" timestamp="1530224001050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1529538319302">
+      <file name="/fragment.py" timestamp="1530224004656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,11 +137,11 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1529538341633">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1530223998130">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="15" column="32" />
       </file>
     </filemarks>
     <jumps>
