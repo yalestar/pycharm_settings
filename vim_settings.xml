@@ -23,12 +23,12 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1530638626011">
+      <file name="/Python Console" timestamp="1530640325409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1530224004656">
+      <file name="/fragment.py" timestamp="1530640338659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,6 +147,11 @@
       <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
         <mark key="[" line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/pys/get_users.py" timestamp="1530639860269">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1530223998130">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="0" />
@@ -170,40 +175,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
+        <text># parsed = response.json()
+        print(parsed)</text>
       </register>
       <register name="-" type="4">
-        <text>if __name__ == '__main__':</text>
+        <text>dumps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
+        <text># parsed = response.json()
+        print(parsed)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
+        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkcmVzc2VzID0gZGF0YS50b19kaWN0KCkK</text>
+        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
