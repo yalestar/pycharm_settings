@@ -18,7 +18,7 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1530224001050">
+      <file name="/Python Console" timestamp="1530637757285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,6 +65,11 @@
       </file>
       <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
         <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cond_views.py" timestamp="1530637777952">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
         <mark key="[" line="10" column="26" />
@@ -159,41 +164,41 @@
       <jump line="103" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
+      <register name="&quot;" type="4">
+        <text>if __name__ == '__main__':</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>if __name__ == '__main__':</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
+        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkcmVzc2VzID0gZGF0YS50b19kaWN0KCkK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KGlucHV0X2ZpbGVuYW1lLCBlbmNvZGluZz0ndXRmOCcpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oIkZpbmlzaGVkIGdlb2NvZGluZyBhbGwgYWRkcmVzc2VzIikKIyBwZC5EYXRhRnJhbWUocmVzdWx0cykudG9fY3N2KG91dHB1dF9maWxlbmFtZSwgZW5jb2Rpbmc9J3V0ZjgnKQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkcmVzc2VzID0gZGF0YS50b19kaWN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoInJvb3QiKQpsb2dnZXIuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKY2ggPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQpjaC5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQpsb2dnZXIuYWRkSGFuZGxlcihjaCkK</text>
+        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KGlucHV0X2ZpbGVuYW1lLCBlbmNvZGluZz0ndXRmOCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
