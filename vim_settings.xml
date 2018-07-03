@@ -3,22 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1505507541974">
+      <file name="/start_script.py" timestamp="1530590009621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518471036021">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1530223998130">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1518468867705">
-        <mark key="[" line="278" column="13" />
-        <mark key="]" line="278" column="13" />
-        <mark key="^" line="278" column="46" />
-        <mark key="." line="278" column="13" />
+      <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
+        <mark key="[" line="28" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530224001050">
+      <file name="/Python Console" timestamp="1530590227143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,13 +25,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518469016388">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-      </file>
-      <file name="/a.dummy" timestamp="1506978177884">
+      <file name="/a.dummy" timestamp="1530589732213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/tabSample.py" timestamp="1517864266238">
@@ -43,14 +34,106 @@
         <mark key="." line="250" column="20" />
         <mark key="^" line="250" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1518468867705">
+        <mark key="[" line="278" column="13" />
+        <mark key="]" line="278" column="13" />
+        <mark key="^" line="278" column="46" />
+        <mark key="." line="278" column="13" />
+      </file>
+      <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/mang.py" timestamp="1518046605204">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="43" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Django-ORM-master/main.py" timestamp="1505261119143">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/tableauSDKSample.py" timestamp="1506978586083">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="^" line="169" column="24" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
+      <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529532774304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/PycharmProjects/untitled1/dingus.py" timestamp="1530589970996">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/census.py" timestamp="1529532797402">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1518047712353">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="82" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/extractors/search_term_aggregator.py" timestamp="1518469016388">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/untitled/census.py" timestamp="1529532564904">
+        <mark key="[" line="9" column="84" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518471036021">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1518461032778">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="3" column="9" />
+        <mark key="o" line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/yojak.py" timestamp="1517864991314">
         <mark key="[" line="12" column="71" />
@@ -63,85 +146,11 @@
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
-        <mark key="[" line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Django-ORM-master/main.py" timestamp="1505261119143">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/census.py" timestamp="1529532797402">
+      <file name="$USER_HOME$/dev/PycharmProjects/untitled1/launchy.py" timestamp="1530589715907">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="14" column="69" />
-        <mark key="." line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1518461032778">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="3" column="9" />
-        <mark key="o" line="24" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1529532774304">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="36" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/mang.py" timestamp="1518046605204">
-        <mark key="'" line="43" column="11" />
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="43" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/untitled/census.py" timestamp="1529532564904">
-        <mark key="[" line="9" column="84" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1518047712353">
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="49" column="33" />
-        <mark key="." line="49" column="33" />
-        <mark key="^" line="82" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
-        <mark key="[" line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1530223998130">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="15" column="32" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -164,6 +173,9 @@
       </register>
       <register name="-" type="4">
         <text>print</text>
+      </register>
+      <register name="/" type="4">
+        <text>ec2_laun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
@@ -200,11 +212,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>ec2_laun</last-search>
+      <last-offset />
+      <last-pattern>ec2_laun</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>ec2_laun</entry>
+      </history-search>
       <history-cmd>
         <entry>220</entry>
         <entry>25</entry>
@@ -224,6 +241,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
