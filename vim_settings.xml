@@ -12,13 +12,18 @@
         <mark key="^" line="37" column="8" />
         <mark key="." line="24" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/pys/visits.py" timestamp="1530638659052">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/models.py" timestamp="1518468867705">
         <mark key="[" line="278" column="13" />
         <mark key="]" line="278" column="13" />
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1530637757285">
+      <file name="/Python Console" timestamp="1530638626011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -165,7 +170,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if __name__ == '__main__':</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
       </register>
       <register name="-" type="4">
         <text>if __name__ == '__main__':</text>
@@ -173,32 +178,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
+        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkcmVzc2VzID0gZGF0YS50b19kaWN0KCkK</text>
+        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KGlucHV0X2ZpbGVuYW1lLCBlbmNvZGluZz0ndXRmOCcpCg==</text>
+        <text encoding="base64">YWRkcmVzc2VzID0gZGF0YS50b19kaWN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
