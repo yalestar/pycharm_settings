@@ -6,16 +6,6 @@
       <file name="/start_script.py" timestamp="1505507541974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1518461032778">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="3" column="9" />
-        <mark key="o" line="24" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1518460949396">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/search_term_rollupper.py" timestamp="1518471036021">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="16" />
@@ -28,12 +18,12 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1518468959554">
+      <file name="/Python Console" timestamp="1530224001050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1518461112712">
+      <file name="/fragment.py" timestamp="1530224004656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,16 +58,55 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="47" column="74" />
       </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517964320120">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Django-ORM-master/main.py" timestamp="1505261119143">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/census.py" timestamp="1529532797402">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1518461032778">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="3" column="9" />
+        <mark key="o" line="24" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529532774304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517964320120">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="12" />
-        <mark key="." line="42" column="12" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/searches_to_conditions.py" timestamp="1506470636801">
         <mark key="'" line="36" column="9" />
@@ -93,8 +122,11 @@
         <mark key="^" line="43" column="16" />
         <mark key="." line="43" column="16" />
       </file>
-      <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
-        <mark key="[" line="2" column="28" />
+      <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/untitled/census.py" timestamp="1529532564904">
+        <mark key="[" line="9" column="84" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1518047712353">
         <mark key="[" line="49" column="33" />
@@ -102,25 +134,14 @@
         <mark key="." line="49" column="33" />
         <mark key="^" line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/barf.py" timestamp="1505255305442">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Django-ORM-master/main.py" timestamp="1505261119143">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="14" column="69" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1530223998130">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="15" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -133,43 +154,46 @@
       <jump line="82" column="9" filename="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" />
       <jump line="20" column="15" filename="$USER_HOME$/dev/analytics/data_extractor/mang.py" />
       <jump line="43" column="11" filename="$USER_HOME$/dev/analytics/data_extractor/mang.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciB0ZXJtIGluIHRlcm1zOgo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhYmxlX2RlZi5hZGRDb2x1bW4oJ3RyZWF0bWVudF9uYW1lJywgVHlwZS5VTklDT0RFX1NUUklORykgICMgMQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
+        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkcmVzc2VzID0gZGF0YS50b19kaWN0KCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBzcWwgPSAiIiIKICAgICAgU0VMRUNUIAogICAgICAgIG8uaWQsCiAgICAgICAgby5uYW1lLAogICAgICAgIHRlcm0sCiAgICAgICAgICBjLm5hbWUgQVMgJ2NvbmRpdGlvbicsCiAgICAgICAgICBjLmlkIEFTICdjb25kaXRpb25faWQnLAogICAgICAgICAgdC5pZCBBUyAndHJlYXRtZW50X2lkJywKICAgICAgICAgIENPVU5UKHRlcm0pIEFTICdzZWFyY2hlcycKICAgICAgRlJPTQogICAgICAgICAgc2VhcmNoX2xvZ3Mgc2xvZwogICAgICAgICAgICAgIEpPSU4KICAgICAgICAgIG9yZ2FuaXphdGlvbnMgbyBPTiBvLmlkID0gc2xvZy5vcmdhbml6YXRpb25faWQKICAgICAgICAgICAgICBMRUZUIEpPSU4KICAgICAgICAgIGNvbmRpdGlvbnMgYyBPTiBjLmlkID0gc2xvZy5jb25kaXRpb25faWQKICAgICAgICAgICAgICBMRUZUIEpPSU4KICAgICAgICAgIHRyZWF0bWVudHMgdCBPTiB0LmlkID0gc2xvZy50cmVhdG1lbnRfaWQKICAgICAgR1JPVVAgQlkgby5pZCwgdGVybSwgYy5pZCwgdC5pZAogICAgICBIQVZJTkcgKGNvbmRpdGlvbl9pZCBJUyBOT1QgTlVMTCkKICAgICAgICAgIE9SICh0cmVhdG1lbnRfaWQgSVMgTk9UIE5VTEwpOwogICAgIiIiCgogICAgdHJlYXRtZW50cyA9IFRyZWF0bWVudC5vYmplY3RzLnJhdyhzcWwpWzoxMF0KICAgIGZvciB0cmVhdG1lbnQgaW4gdHJlYXRtZW50czoKICAgICAgICBwcmludCB0cmVhdG1lbnQucHJpbWFyeV9uYW1l</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGF0YSA9IHBkLnJlYWRfY3N2KGlucHV0X2ZpbGVuYW1lLCBlbmNvZGluZz0ndXRmOCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oIkZpbmlzaGVkIGdlb2NvZGluZyBhbGwgYWRkcmVzc2VzIikKIyBwZC5EYXRhRnJhbWUocmVzdWx0cykudG9fY3N2KG91dHB1dF9maWxlbmFtZSwgZW5jb2Rpbmc9J3V0ZjgnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbXlzdHJpbmcgPSAiIiJJIGxpa2UgdG8gZG8gc3R1ZmYgb24gJSh0dWUpcyIiIiAlIHsndHVlJzogZG9fc3R1ZmZ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNxbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHNxbCA9ICIiIgogICAgU0VMRUNUIHQuaWQsCiAgICAgICAgICAgby5uYW1lIGFzICdvcmdfbmFtZScsCiAgICAgICAgICAgZWwuY3JlYXRlZF9hdCwKICAgICAgICAgICB0LnByaW1hcnlfbmFtZSBhcyAndHJlYXRtZW50X25hbWUnCiAgICBGUk9NIGV2ZW50X2xvZ3MgZWwKICAgIEpPSU4gdHJlYXRtZW50cyB0IE9OIGVsLnJlc291cmNlX2lkID0gdC5pZAogICAgSk9JTiBvcmdhbml6YXRpb25zIG8gT04gZWwub3JnYW5pemF0aW9uX2lkID0gby5pZAogICAgV0hFUkUgcmVzb3VyY2VfdHlwZSA9ICdUcmVhdG1lbnQnCiAgICBhbmQgZWwuIGNyZWF0ZWRfYXQgPCAnMjAxNy0wOS0zMCcKICAgICIiIg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoInJvb3QiKQpsb2dnZXIuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKY2ggPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQpjaC5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQpsb2dnZXIuYWRkSGFuZGxlcihjaCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -197,6 +221,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
