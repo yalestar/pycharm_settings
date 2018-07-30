@@ -144,6 +144,17 @@
         <mark key="." line="49" column="33" />
         <mark key="^" line="82" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/pytomo/visitor_log.py" timestamp="1532990749312">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/pytomo/json_to_csv.py" timestamp="1532991016496">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="5" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/reqo.py" timestamp="1507069750920">
         <mark key="[" line="28" column="0" />
       </file>
@@ -175,42 +186,41 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># parsed = response.json()
-        print(parsed)</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>dumps</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCByZXF1ZXN0cy5leGNlcHRpb25zLlJlcXVlc3RFeGNlcHRpb24K</text>
+      </register>
+      <register name="2" type="4">
         <text># parsed = response.json()
         print(parsed)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
+        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHRoZSBQeXRob24gUmVxdWVzdHMgbGlicmFyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoInt9IHt9LCB7fSwge30iLmZvcm1hdChhZGRyZXNzLCBjaXR5LCBzdGF0ZSwgemlwKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKGxlbih6aXApID09IDkpOgogICAgICAgIHppcDUgPSB6aXBbMDo1XQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZ2VvY29kZV91cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
