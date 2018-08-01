@@ -42,6 +42,12 @@
       <file name="/a.dummy" timestamp="1506978177884">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pytomo/visitor_profile.py" timestamp="1533147989568">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/tabSample.py" timestamp="1517864266238">
         <mark key="[" line="242" column="45" />
         <mark key="]" line="250" column="20" />
@@ -189,44 +195,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># pprint(data.get('lastVisits')[0].get('actionDetails'))</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text># pprint(data.get('lastVisits')[0].get('actionDetails'))</text>
+        <text>pass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyZWF0bWVudF9pZCA9IG1vZGVscy5Gb3JlaWduS2V5KCdUcmVhdG1lbnQnLCBtb2RlbHMuRE9fTk9USElORywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHFzID0gdXJscGFyc2UucGFyc2VfcXModXJscGFyc2UudXJscGFyc2UodXJsKVs0XSkKICAgIGRlbChxc1sndXRmOCddKQogICAgcmV0dXJuIHFzCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IyBmb3IgZCBpbiBkYXRhLml0ZW1zKCk6Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgZm9yIHZpc2l0IGluIGRhdGFbJ2xhc3RWaXNpdHMnXToKICAgICAgIHByaW50IHZpc2l0CiAgICAjIGZvciBhY3Rpb24gaW4gdmlzaXRbJ2FjdGlvbkRldGFpbHMnXToKICAgICMgICB2dHlwZSA9IGFjdGlvblsndHlwZSddCiAgICAjICAgaWYgdnR5cGUgPT0gJ2FjdGlvbic6ICAgIyBvciB2dHlwZSA9PSAnYWN0aW9uJzoKICAgICMgICAgIHByaW50IHZ0eXBl</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2aXNpdC5rZXlzKCkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdCByZXF1ZXN0cy5leGNlcHRpb25zLlJlcXVlc3RFeGNlcHRpb24K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text># parsed = response.json()
         print(parsed)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBgcGlwIGluc3RhbGwgcmVxdWVzdHNgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
@@ -238,12 +244,14 @@
       <history-cmd>
         <entry>220</entry>
         <entry>25</entry>
-        <entry>27</entry>
         <entry>26d</entry>
         <entry>24</entry>
         <entry>18</entry>
         <entry>10d</entry>
         <entry>w</entry>
+        <entry>5</entry>
+        <entry>27</entry>
+        <entry>9</entry>
       </history-cmd>
       <history-expr />
       <history-input />
