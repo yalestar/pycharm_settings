@@ -67,6 +67,13 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="47" column="74" />
       </file>
+      <file name="$USER_HOME$/dev/pytomo/devo.py" timestamp="1533332096437">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517964320120">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
@@ -107,7 +114,7 @@
         <mark key="^" line="3" column="9" />
         <mark key="o" line="24" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533158148513">
+      <file name="/Dummy.txt" timestamp="1533332006009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
@@ -187,44 +194,44 @@
       <jump line="91" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
+      <jump line="7" column="26" filename="$USER_HOME$/dev/pytomo/devo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgUGF0aFRyYW5zZm9ybWVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCByZW1vdmVfdXRmKHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgUGF0aFRyYW5zZm9ybWVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ZGVmIGRhdGVfZnJvbV93ZWJraXQodHMpOgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAjIHFzID0gdXJscGFyc2UucGFyc2VfcXModXJscGFyc2UudXJscGFyc2UodXJsKS5xdWVyeSkKICAgICMgaWYoJ3V0ZjgnKSBpbiBxcy5rZXlzKCk6CiAgICAjICAgICBkZWwocXNbJ3V0ZjgnXSkKICAgICMgICAgIHJldHVybiBxcwogICAgIyBlbHNlOgogICAgIyAgICAgcmV0dXJuIHVybA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgUGF0aFRyYW5zZm9ybWVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAjIHFzID0gdXJscGFyc2UucGFyc2VfcXModXJscGFyc2UudXJscGFyc2UodXJsKS5xdWVyeSkKICAgICMgaWYoJ3V0ZjgnKSBpbiBxcy5rZXlzKCk6CiAgICAjICAgICBkZWwocXNbJ3V0ZjgnXSkKICAgICMgICAgIHJldHVybiBxcwogICAgIyBlbHNlOgogICAgIyAgICAgcmV0dXJuIHVybA==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHFzID0gdXJscGFyc2UucGFyc2VfcXModXJscGFyc2UudXJscGFyc2UodXJsKVs0XSkKICAgIGRlbChxc1sndXRmOCddKQogICAgcmV0dXJuIHFzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyBmb3IgZCBpbiBkYXRhLml0ZW1zKCk6Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgZm9yIHZpc2l0IGluIGRhdGFbJ2xhc3RWaXNpdHMnXToKICAgICAgIHByaW50IHZpc2l0CiAgICAjIGZvciBhY3Rpb24gaW4gdmlzaXRbJ2FjdGlvbkRldGFpbHMnXToKICAgICMgICB2dHlwZSA9IGFjdGlvblsndHlwZSddCiAgICAjICAgaWYgdnR5cGUgPT0gJ2FjdGlvbic6ICAgIyBvciB2dHlwZSA9PSAnYWN0aW9uJzoKICAgICMgICAgIHByaW50IHZ0eXBl</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh2aXNpdC5rZXlzKCkpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGV4Y2VwdCByZXF1ZXN0cy5leGNlcHRpb25zLlJlcXVlc3RFeGNlcHRpb24K</text>
-      </register>
-      <register name="8" type="4">
-        <text># parsed = response.json()
-        print(parsed)</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludCgnUmVzcG9uc2UgSFRUUCBTdGF0dXMgQ29kZToge3N0YXR1c19jb2RlfScuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
