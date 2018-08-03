@@ -18,10 +18,14 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.Open" />
   <action id="DBNavigator.Actions.Execute">
-    <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="DBNavigator.Actions.File.ExecuteScript">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -31,6 +35,7 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -59,6 +64,7 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -100,7 +106,10 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="Refresh" />
+  <action id="Replace" />
   <action id="ReplaceInPath" />
+  <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
@@ -126,6 +135,8 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="UsageView.Rerun" />
+  <action id="ViewSource" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>

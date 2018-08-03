@@ -98,8 +98,16 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="6823d567-a8a9-4d6f-bc2d-00b9af2df28b/consoles/History 1" timestamp="1533334006949">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/census.py" timestamp="1529532797402">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="6823d567-a8a9-4d6f-bc2d-00b9af2df28b/dataset_filters/schemas/main/tables/visits" timestamp="1533334147644">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/db/table_def.py" timestamp="1506727827530">
         <mark key="[" line="19" column="29" />
@@ -107,14 +115,7 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/analytics/data_extractor/settings.py" timestamp="1518461032778">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="3" column="9" />
-        <mark key="o" line="24" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533332006009">
+      <file name="/Dummy.txt" timestamp="1533333676435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
@@ -174,6 +175,11 @@
         <mark key="]" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/pytomo/export_chrome.py" timestamp="1533334333838">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cambia_geocoder.py" timestamp="1530223998130">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="0" />
@@ -197,41 +203,41 @@
       <jump line="7" column="26" filename="$USER_HOME$/dev/pytomo/devo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiUGxlYXNlIHNwZWNpZnkgdGhlIGlucHV0IGZpbGUgbWFudWFsbHkuIikK</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCByZW1vdmVfdXRmKHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGRhdGVfZnJvbV93ZWJraXQodHMpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiUGxlYXNlIHNwZWNpZnkgdGhlIGlucHV0IGZpbGUgbWFudWFsbHkuIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVGhlIGhpc3RvcnkgZmlsZSBjb3VsZCBub3QgYmUgZm91bmQgaW4gaXRzIGRlZmF1bHQgbG9jYXRpb24gKHt9KS4gIi5mb3JtYXQoZS5maWxlbmFtZSkgKwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUGF0aFRyYW5zZm9ybWVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAjIHFzID0gdXJscGFyc2UucGFyc2VfcXModXJscGFyc2UudXJscGFyc2UodXJsKS5xdWVyeSkKICAgICMgaWYoJ3V0ZjgnKSBpbiBxcy5rZXlzKCk6CiAgICAjICAgICBkZWwocXNbJ3V0ZjgnXSkKICAgICMgICAgIHJldHVybiBxcwogICAgIyBlbHNlOgogICAgIyAgICAgcmV0dXJuIHVybA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHFzID0gdXJscGFyc2UucGFyc2VfcXModXJscGFyc2UudXJscGFyc2UodXJsKVs0XSkKICAgIGRlbChxc1sndXRmOCddKQogICAgcmV0dXJuIHFzCg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZW52aXJvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmb3IgZCBpbiBkYXRhLml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgZm9yIHZpc2l0IGluIGRhdGFbJ2xhc3RWaXNpdHMnXToKICAgICAgIHByaW50IHZpc2l0CiAgICAjIGZvciBhY3Rpb24gaW4gdmlzaXRbJ2FjdGlvbkRldGFpbHMnXToKICAgICMgICB2dHlwZSA9IGFjdGlvblsndHlwZSddCiAgICAjICAgaWYgdnR5cGUgPT0gJ2FjdGlvbic6ICAgIyBvciB2dHlwZSA9PSAnYWN0aW9uJzoKICAgICMgICAgIHByaW50IHZ0eXBl</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGFyZ3YsIHN0ZGVycgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2aXNpdC5rZXlzKCkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">c2NyaXB0X3ZlcnNpb24gPSAiMi4wLjEiCgojIGh0bWwgZXNjYXBpbmcgY29kZSBmcm9tIGh0dHA6Ly93aWtpLnB5dGhvbi5vcmcvbW9pbi9Fc2NhcGluZ0h0bWwKCmh0bWxfZXNjYXBlX3RhYmxlID0gewogICAgIiYiOiAiJmFtcDsiLAogICAgJyInOiAiJnF1b3Q7IiwKICAgICInIjogIiYjMzk7IiwKICAgICI+IjogIiZndDsiLAogICAgIjwiOiAiJmx0OyIsCn0KCm91dHB1dF9maWxlX3RlbXBsYXRlID0gIiIiPCFET0NUWVBFIE5FVFNDQVBFLUJvb2ttYXJrLWZpbGUtMT4KCjxtZXRhIGh0dHAtZXF1aXY9J0NvbnRlbnQtVHlwZScgY29udGVudD0ndGV4dC9odG1sOyBjaGFyc2V0PVVURi04JyAvPgo8dGl0bGU+Qm9va21hcmtzPC90aXRsZT4KPGgxPkJvb2ttYXJrczwvaDE+Cgo8ZGw+PHA+Cgo8ZGw+PGR0PjxoMz5IaXN0b3J5PC9oMz4KCjxkbD48cD57aXRlbXN9PC9kbD48L3A+XG48L2RsPiIiIgoKCmRlZiBodG1sX2VzY2FwZSh0ZXh0KToKICAgIHJldHVybiAnJy5qb2luKGh0bWxfZXNjYXBlX3RhYmxlLmdldChjLCBjKSBmb3IgYyBpbiB0ZXh0KQoKCmRlZiBzYW5pdGl6ZShzdHJpbmcpOgogICAgcmVzID0gJycKICAgIHN0cmluZyA9IGh0bWxfZXNjYXBlKHN0cmluZykKCiAgICBmb3IgaSBpbiByYW5nZShsZW4oc3RyaW5nKSk6CiAgICAgICAgaWYgb3JkKHN0cmluZ1tpXSkgPiAxMjc6CiAgICAgICAgICAgIHJlcyArPSAnJiN4ezp4fTsnLmZvcm1hdChvcmQoc3RyaW5nW2ldKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXMgKz0gc3RyaW5nW2ldCgogICAgcmV0dXJuIHJlcw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCByZXF1ZXN0cy5leGNlcHRpb25zLlJlcXVlc3RFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIHByaW50KCdUaGVyZSB3YXMgYW4gZXJyb3IgcmVhZGluZyBkYXRhIGZyb20gdGhlIGZpbGUgInt9Ii4nLmZvcm1hdChhcmdzLmlucHV0X2ZpbGUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
