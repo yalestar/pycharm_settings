@@ -23,12 +23,12 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1533338991066">
+      <file name="/Python Console" timestamp="1539985117877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1533338305847">
+      <file name="/fragment.py" timestamp="1539985157354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,7 +73,6 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="47" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/pytomo/devo.py" timestamp="1533338827220" />
       <file name="$USER_HOME$/dev/analytics/data_extractor/littleSample.py" timestamp="1517964320120">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
@@ -115,7 +114,7 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533333676435">
+      <file name="/Dummy.txt" timestamp="1539982772967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
@@ -124,11 +123,19 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/botoski/legless.py" timestamp="1539985387931">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/alcy.py" timestamp="1505157895056">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/botoski/startr.py" timestamp="1539985355754">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/untitled/census.py" timestamp="1529532564904">
         <mark key="[" line="9" column="84" />
@@ -190,40 +197,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgaXRlbXMgKz0gJzxkdD48YSBocmVmPSJ7fSI+e308L2E+XG4nLmZvcm1hdChyb3dbMF0pLCAocm93WzFdKQo=</text>
+        <text encoding="base64">czMgPSBkZXYucmVzb3VyY2UoJ3MzJykK</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZW1vdmVfdXRmKHVybCkK</text>
+        <text encoding="base64">ZWMyID0gYm90bzMucmVzb3VyY2UoJ2VjMicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaXRlbXMgKz0gJzxkdD48YSBocmVmPSJ7fSI+e308L2E+XG4nLmZvcm1hdChyb3dbMF0pLCAocm93WzFdKQo=</text>
+        <text encoding="base64">czMgPSBkZXYucmVzb3VyY2UoJ3MzJykK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IyB0cnk6CiMgICAgIGN1cnMuZXhlY3V0ZSgiU0VMRUNUIHVybCwgdGl0bGUgRlJPTSB1cmxzIikKIyBleGNlcHQgc3FsaXRlMy5PcGVyYXRpb25hbEVycm9yOgojICAgICBybXRyZWUodGVtcF9kaXIpCiMgICAgIGV4aXQoMSkKCiMgaXRlbXMgPSAiIgojIGZvciByb3cgaW4gY3VyczoKIyAgICAgaWYgbGVuKHJvd1sxXSkgPiAwOgojICAgICAgICAgaXRlbXMgKz0gJzxkdD48YSBocmVmPSJ7fSI+e308L2E+XG4nLmZvcm1hdChyb3dbMF0pLCAocm93WzFdKQoKIyBjb25uZWN0aW9uLmNsb3NlKCkKIyBybXRyZWUodGVtcF9kaXIpCgojIGFyZ3Mub3V0cHV0X2ZpbGUud3JpdGUob3V0cHV0X2ZpbGVfdGVtcGxhdGUuZm9ybWF0KGl0ZW1zPWl0ZW1zKSkKIyBhcmdzLm91dHB1dF9maWxlLmNsb3NlKCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ05hbWUnOiBuYW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiUGxlYXNlIHNwZWNpZnkgdGhlIGlucHV0IGZpbGUgbWFudWFsbHkuIikK</text>
+        <text encoding="base64">aWYgJ05hbWUnIGluIHRhZ1snS2V5J106CiAgICAgICAgICAgIG5hbWUgPSB0YWdbJ1ZhbHVlJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVGhlIGhpc3RvcnkgZmlsZSBjb3VsZCBub3QgYmUgZm91bmQgaW4gaXRzIGRlZmF1bHQgbG9jYXRpb24gKHt9KS4gIi5mb3JtYXQoZS5maWxlbmFtZSkgKwo=</text>
+        <text encoding="base64">cHJpbnQocmVzcG9uc2UpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmZvciBpIGluIGVjMi5pbnN0YW5jZXM6CiAgICBwcmludChpLm5hbWUp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGJ1Y2tldCBpbiBzMy5idWNrZXRzLmFsbCgpOgogICAgcHJpbnQoYnVja2V0Lm5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgZW52aXJvbgo=</text>
+        <text encoding="base64">CmZpbHRlcnMgPSBbCiAgICB7CiAgICAgICAgJ1ZhbHVlcyc6IFsncnVubmluZyddCiAgICB9Cl0KCmluc3RhbmNlcyA9IGVjMi5pbnN0YW5jZXMgICMgLmZpbHRlcihGaWx0ZXJzPWZpbHRlcnMpCgpmb3IgaW5zdGFuY2UgaW4gaW5zdGFuY2VzOgogICAgcHJpbnQoaW5zdGFuY2UuaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">cHJpbnQgaW5zdGFuY2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IGFyZ3YsIHN0ZGVycgo=</text>
+        <text encoding="base64">ICAgICMgaXRlbXMgKz0gJzxkdD48YSBocmVmPSJ7fSI+e308L2E+XG4nLmZvcm1hdChyb3dbMF0pLCAocm93WzFdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
