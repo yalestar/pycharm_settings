@@ -23,7 +23,7 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1539985117877">
+      <file name="/Python Console" timestamp="1542404234371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,6 +68,12 @@
         <mark key="]" line="169" column="0" />
         <mark key="^" line="169" column="24" />
         <mark key="." line="169" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/EXAMPLES/py_beyond_basics/skink.py" timestamp="1542404215431">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="[loco] CONSOLE - loco 1" timestamp="1505490713334">
         <mark key="[" line="0" column="0" />
@@ -202,43 +208,45 @@
       <jump line="102" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" />
       <jump line="7" column="26" filename="$USER_HOME$/dev/pytomo/devo.py" />
+      <jump line="2" column="13" filename="$USER_HOME$/dev/EXAMPLES/py_beyond_basics/skink.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/dev/EXAMPLES/py_beyond_basics/skink.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHN5cy5hcmd2WzFdCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'http://sixty-north.com/c/t.txt'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWMyID0gYm90bzMucmVzb3VyY2UoJ2VjMicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHN5cy5hcmd2WzFdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmcm9tIHNyYy50b2RvYmFja2VuZC5zZXR0aW5ncy5iYXNlIGltcG9ydCAqCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">IyBmcm9tIHNyYy50b2RvYmFja2VuZC5zZXR0aW5ncy5iYXNlIGltcG9ydCAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">czMgPSBkZXYucmVzb3VyY2UoJ3MzJykK</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05hbWUnOiBuYW1lLAo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgJ05hbWUnIGluIHRhZ1snS2V5J106CiAgICAgICAgICAgIG5hbWUgPSB0YWdbJ1ZhbHVlJ10K</text>
+        <text encoding="base64">czMgPSBkZXYucmVzb3VyY2UoJ3MzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05hbWUnOiBuYW1lLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmZvciBpIGluIGVjMi5pbnN0YW5jZXM6CiAgICBwcmludChpLm5hbWUp</text>
+      <register name="9" type="2">
+        <text encoding="base64">aWYgJ05hbWUnIGluIHRhZ1snS2V5J106CiAgICAgICAgICAgIG5hbWUgPSB0YWdbJ1ZhbHVlJ10K</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
