@@ -23,12 +23,12 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1543723323009">
+      <file name="/Python Console" timestamp="1543723976014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1539985157354">
+      <file name="/fragment.py" timestamp="1543723983316">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,6 +89,13 @@
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/pytomo/matomo_api.py" timestamp="1543724031518">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+        <mark key="^" line="25" column="14" />
+      </file>
       <file name="$USER_HOME$/Downloads/data-wrangling-master/data/chp5/parse_pdf.py" timestamp="1508270367639">
         <mark key="[" line="2" column="28" />
       </file>
@@ -128,14 +135,14 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/pytomo/tester.py" timestamp="1543724002589">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1539982772967">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/EXAMPLES/geocoding/geogoo.py" timestamp="1529534083829">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/botoski/legless.py" timestamp="1539985387931">
         <mark key="[" line="5" column="0" />
@@ -210,43 +217,44 @@
       <jump line="7" column="26" filename="$USER_HOME$/dev/pytomo/devo.py" />
       <jump line="2" column="13" filename="$USER_HOME$/dev/EXAMPLES/py_beyond_basics/skink.py" />
       <jump line="19" column="19" filename="$USER_HOME$/dev/EXAMPLES/py_beyond_basics/skink.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/pytomo/matomo_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHN5cy5hcmd2WzFdCg==</text>
+      <register name="&quot;" type="4">
+        <text>content</text>
       </register>
       <register name="-" type="4">
-        <text>'http://sixty-north.com/c/t.txt'</text>
+        <text>content</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWMyID0gYm90bzMucmVzb3VyY2UoJ2VjMicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHN5cy5hcmd2WzFdCg==</text>
+        <text encoding="base64">CkFVVEhfVE9LRU4gPSAiNGVkYjhjMzVmNjI5MDZkYzdjOTZiZDg2OThiMDI0ZWQiCgpkZWYgc2VuZF9yZXF1ZXN0KCk6CgogICAgdHJ5OgogICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KAogICAgICAgICAgICB1cmw9Imh0dHBzOi8vYW5hbHl0aWNzLm1lZHNhdnZ5LmNvbS9pbmRleC5waHAiLAogICAgICAgICAgICBwYXJhbXM9ewogICAgICAgICAgICAgICAgIm1vZHVsZSI6ICJBUEkiLAogICAgICAgICAgICAgICAgIm1ldGhvZCI6ICJMaXZlLmdldFZpc2l0b3JQcm9maWxlIiwKICAgICAgICAgICAgICAgICJpZFNpdGUiOiAiMSIsCiAgICAgICAgICAgICAgICAiZm9ybWF0IjogIkpTT04iLAogICAgICAgICAgICAgICAgImZpbHRlcl9saW1pdCI6ICIyIiwKICAgICAgICAgICAgICAgICJ0b2tlbl9hdXRoIjogQVVUSF9UT0tFTiwKICAgICAgICAgICAgICAgICJ2aXNpdG9ySWQiOiAiMjRjOWU4MDFlMmY0YThiMiIsCiAgICAgICAgICAgICAgICAicGVyaW9kIjogImRheSIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGhlYWRlcnM9ewogICAgICAgICAgICAgICAgIkNvb2tpZSI6ICJQSVdJS19TRVNTSUQ9ZmM2YjdnaWg4bXVnbHRscWd2NWViZTJqcDQiLAogICAgICAgICAgICB9LAogICAgICAgICkKICAgICAgICAjIHByaW50KCdSZXNwb25zZSBIVFRQIFN0YXR1cyBDb2RlOiB7c3RhdHVzX2NvZGV9Jy5mb3JtYXQoCiAgICAgICAgICAgICMgc3RhdHVzX2NvZGU9cmVzcG9uc2Uuc3RhdHVzX2NvZGUpKQogICAgICAgICMgcHJpbnQoJ1Jlc3BvbnNlIEhUVFAgUmVzcG9uc2UgQm9keToge2NvbnRlbnR9Jy5mb3JtYXQoCiAgICAgICAgIyAgICAgY29udGVudD1yZXNwb25zZS5jb250ZW50KSkKICAgICAgICBwcmludChyZXNwb25zZS5jb250ZW50KQogICAgZXhjZXB0IHJlcXVlc3RzLmV4Y2VwdGlvbnMuUmVxdWVzdEV4Y2VwdGlvbjoKICAgICAgICBwcmludCgnSFRUUCBSZXF1ZXN0IGZhaWxlZCcpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgc2VuZF9yZXF1ZXN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">bXBvcnQgcmVxdWVzdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFyZyA9IGFyZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmcm9tIHNyYy50b2RvYmFja2VuZC5zZXR0aW5ncy5iYXNlIGltcG9ydCAqCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHN5cy5hcmd2WzFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">czMgPSBkZXYucmVzb3VyY2UoJ3MzJykK</text>
+        <text encoding="base64">IyBmcm9tIHNyYy50b2RvYmFja2VuZC5zZXR0aW5ncy5iYXNlIGltcG9ydCAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05hbWUnOiBuYW1lLAo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgJ05hbWUnIGluIHRhZ1snS2V5J106CiAgICAgICAgICAgIG5hbWUgPSB0YWdbJ1ZhbHVlJ10K</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
