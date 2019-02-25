@@ -23,7 +23,7 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1550713203930">
+      <file name="/Python Console" timestamp="1551131124366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -34,7 +34,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1550713222090">
+      <file name="/fragment.py" timestamp="1551131050824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -50,6 +50,11 @@
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/ARFLOW/sqlexecutor.py" timestamp="1544122646974">
         <mark key="[" line="43" column="26" />
+      </file>
+      <file name="$USER_HOME$/airflow/dags/rates.py" timestamp="1551130271068">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/dev/tab_sdk/EXAMPLES/py_rollupper/tabSample.py" timestamp="1517864266238">
         <mark key="[" line="242" column="45" />
@@ -94,6 +99,7 @@
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/miniconda2/envs/py36/lib/python3.6/site-packages/airflow/hooks/http_hook.py" timestamp="1551131121939" />
       <file name="$USER_HOME$/dev/pytomo/matomo_api.py" timestamp="1543724031518">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="49" column="24" />
@@ -105,10 +111,10 @@
         <mark key="[" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/airflow/OLD_DAGS/Ormy.py" timestamp="1550774287987">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="23" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="28" column="23" />
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="23" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/cond_views.py" timestamp="1530637777952">
         <mark key="[" line="27" column="0" />
@@ -152,7 +158,7 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550709829064">
+      <file name="/Dummy.txt" timestamp="1551130146578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/botoski/legless.py" timestamp="1539985387931">
@@ -211,9 +217,6 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/airflow/dags/challenge4.py" timestamp="1550713412520">
-        <mark key="[" line="15" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/pytomo/export_chrome.py" timestamp="1533334333838">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -252,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;alksjdflaksjd&quot;</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;alksjdflaksjd&quot;</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWMyID0gYm90bzMucmVzb3VyY2UoJ2VjMicpCg==</text>
