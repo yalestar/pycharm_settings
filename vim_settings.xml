@@ -112,7 +112,7 @@
         <mark key="^" line="278" column="46" />
         <mark key="." line="278" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1551142755793">
+      <file name="/Python Console" timestamp="1551143606777">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -123,16 +123,16 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1551142521201">
+      <file name="/fragment.py" timestamp="1551143633079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airflow/examples/analy.py" timestamp="1551142654078">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="41" column="17" />
-        <mark key="^" line="41" column="17" />
-        <mark key="." line="41" column="17" />
+      <file name="$USER_HOME$/airflow/examples/analy.py" timestamp="1551143603604">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/ARFLOW/sqlexecutor.py" timestamp="1544122646974">
         <mark key="[" line="43" column="26" />
@@ -266,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.iteritems()</text>
+        <text>expanded</text>
       </register>
       <register name="-" type="4">
-        <text>.iteritems()</text>
+        <text>expanded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWMyID0gYm90bzMucmVzb3VyY2UoJ2VjMicpCg==</text>
