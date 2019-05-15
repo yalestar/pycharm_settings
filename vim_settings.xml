@@ -84,7 +84,6 @@
       <file name="$USER_HOME$/dev/EXAMPLES/pluralsite-docker/todobackend/src/todobackend/settings/base.py" timestamp="1542063642834">
         <mark key="[" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1557877679400" />
       <file name="$USER_HOME$/dev/EXAMPLES/phoner/test_phonebook.py" timestamp="1543806781715">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="43" />
@@ -194,6 +193,7 @@
       <file name="/Dummy.txt" timestamp="1551139096958">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/airflow/dags/query_sf_objects.py" timestamp="1557952501224" />
       <file name="$USER_HOME$/dev/EXAMPLES/botoski/legless.py" timestamp="1539985387931">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
