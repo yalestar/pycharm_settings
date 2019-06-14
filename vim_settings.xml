@@ -123,6 +123,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1560530673878">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/airflow/examples/dinkus.py" timestamp="1550537526617">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -270,11 +275,11 @@
       <jump line="49" column="0" filename="$USER_HOME$/dev/pytomo/matomo_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlcnMgPSBzZi5xdWVyeSgiU2VsZWN0IElkLCBNZWRTYXZ2eV9Vc2VyX0lEX19jLCBIYXNPcHRlZE91dE9mRW1haWwgZnJvbSBDb250YWN0IHdoZXJlIEhhc09wdGVkT3V0T2ZFbWFpbCA9IEZhbHNlIikK</text>
+      <register name="&quot;" type="4">
+        <text>len(users)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>len(users)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QWNjdCA9IHNmLnF1ZXJ5KAogICAgIlNFTEVDVCBJZCwgTmFtZSwgTWVkU2F2dnlfT3JnYW5pemF0aW9uX0lEX19jLCBJbnN1cmVkX0xpbmVfT2ZfQnVzaW5lc3NfX2MgRlJPTSBBY2NvdW50IikK</text>
