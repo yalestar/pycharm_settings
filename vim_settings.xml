@@ -89,11 +89,12 @@
         <mark key="]" line="6" column="43" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" timestamp="1560539923298">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" timestamp="1560890675250">
+        <mark key="'" line="34" column="23" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="145" />
+        <mark key="." line="27" column="145" />
+        <mark key="^" line="27" column="145" />
       </file>
       <file name="$USER_HOME$/dev/analytics/data_extractor/top_treatments.py" timestamp="1518047712353">
         <mark key="[" line="49" column="33" />
@@ -123,7 +124,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560530673878">
+      <file name="/Python Console" timestamp="1560889657934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -186,7 +187,7 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/whos_in.py" timestamp="1560799588777">
+      <file name="$USER_HOME$/Downloads/whos_in.py" timestamp="1560890049666">
         <mark key="'" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/geocoding/census.py" timestamp="1529532797402">
@@ -277,43 +278,45 @@
       <jump line="19" column="19" filename="$USER_HOME$/dev/EXAMPLES/py_beyond_basics/skink.py" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/pytomo/matomo_api.py" />
       <jump line="26" column="9" filename="$USER_HOME$/Downloads/whos_in.py" />
+      <jump line="28" column="20" filename="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" />
+      <jump line="31" column="23" filename="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnByaW50KGNvbm5lY3Rpb24p</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>len(users)</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QWNjdCA9IHNmLnF1ZXJ5KAogICAgIlNFTEVDVCBJZCwgTmFtZSwgTWVkU2F2dnlfT3JnYW5pemF0aW9uX0lEX19jLCBJbnN1cmVkX0xpbmVfT2ZfQnVzaW5lc3NfX2MgRlJPTSBBY2NvdW50IikK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIud3JpdGVyb3codXNlclsnTWVkU2F2dnlfVXNlcl9JRF9fYyddKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnByaW50KGNvbm5lY3Rpb24p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG5leHQocmVhZGVyLCBOb25lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LnR5cGVzIGltcG9ydCBJbnRlZ2VyLCBWQVJDSEFSLCBEYXRlLCBGbG9hdAo=</text>
+        <text encoding="base64">aW5fY3N2ID0gJy9Vc2Vycy9yNjIyMjMzL0Rvd25sb2Fkcy9kb29rLmNzdicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlcnMgPSBzZi5xdWVyeSgiU2VsZWN0IElkLCBNZWRTYXZ2eV9Vc2VyX0lEX19jLCBIYXNPcHRlZE91dE9mRW1haWwgZnJvbSBDb250YWN0IHdoZXJlIEhhc09wdGVkT3V0T2ZFbWFpbCA9IEZhbHNlIikK</text>
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gd3JpdGVyOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVzYyA9IHNmLkFjY291bnQuZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX25hbWUgPSByb3dbMF0KICAgICAgICAjIHByaW50KGZ1bGxfbmFtZSkKICAgICAgICBwYXJ0cyA9IGZ1bGxfbmFtZS5zcGxpdCgpCiAgICAgICAgZm4gPSBwYXJ0c1swXQogICAgICAgIGxuID0gcGFydHNbMV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZPcHAuY29sdW1ucyA9IFsnSWQnLCAnTmFtZScsICdBY2NvdW50SWQnLCAnRWZmZWN0aXZlX0RhdGVfX2MnLCAnU3RhZ2VOYW1lJ10K</text>
+        <text encoding="base64">IyBBY2N0ID0gc2YucXVlcnkoCiMgICAgICJTRUxFQ1QgSWQsIE5hbWUsIE1lZFNhdnZ5X09yZ2FuaXphdGlvbl9JRF9fYywgSW5zdXJlZF9MaW5lX09mX0J1c2luZXNzX19jIEZST00gQWNjb3VudCIpCgojIEFjY3QgPSBzZi5xdWVyeSgiU0VMRUNUICogRlJPTSBBY2NvdW50IikKIyBmb3IgcmVjb3JkIGluIEFjY3RbJ3JlY29yZHMnXToKICAgICMgcHJpbnQocmVjb3JkKQoKIyBsaXN0QWNjdCA9IFsocmVjb3JkWydJZCddLCByZWNvcmRbJ05hbWUnXSwgcmVjb3JkWydNZWRTYXZ2eV9Pcmdhbml6YXRpb25fSURfX2MnXSwgcmVjb3JkWwojICAgICAgICAgICAgICAnSW5zdXJlZF9MaW5lX09mX0J1c2luZXNzX19jJ10pIGZvciByZWNvcmQgaW4gQWNjdFsncmVjb3JkcyddXQojCiMgT3BwID0gc2YucXVlcnkoCiMgICAgICJTRUxFQ1QgSWQsIE5hbWUsIEFjY291bnRJZCwgRWZmZWN0aXZlX0RhdGVfX2MsIFN0YWdlTmFtZSBGUk9NIE9wcG9ydHVuaXR5IikKIyBsaXN0T3BwID0gWyhyZWNvcmRbJ0lkJ10sIHJlY29yZFsnTmFtZSddLCByZWNvcmRbJ0FjY291bnRJZCddLCByZWNvcmRbCiMgICAgICAgICAgICAgJ0VmZmVjdGl2ZV9EYXRlX19jJ10sIHJlY29yZFsnU3RhZ2VOYW1lJ10pIGZvciByZWNvcmQgaW4gT3BwWydyZWNvcmRzJ11dCgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGZPcHAgPSBwZC5EYXRhRnJhbWUoW3ggZm9yIHggaW4gbGlzdE9wcF0pCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnByaW50KGNvbm5lY3Rpb24p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGZPcHAudG9fc3FsKCdzZl9vcHBvcnR1bml0eScsIHNjaGVtYT0ncmVwb3J0aW5nJywgY29uPWNvbm5lY3Rpb24sIGlmX2V4aXN0cz0ncmVwbGFjZScsCiAgICAgICAgICAgICBkdHlwZT17J0lkJzogVkFSQ0hBUihsZW5ndGg9MjU1KSwKICAgICAgICAgICAgICAgICAgICAnTmFtZSc6IFZBUkNIQVIobGVuZ3RoPTI1NSksCiAgICAgICAgICAgICAgICAgICAgJ0FjY291bnRJZCc6IFZBUkNIQVIobGVuZ3RoPTI1NSksCiAgICAgICAgICAgICAgICAgICAgJ0VmZmVjdGl2ZV9EYXRlX19jJzogRGF0ZSwKICAgICAgICAgICAgICAgICAgICAnU3RhZ2VOYW1lJzogVkFSQ0hBUihsZW5ndGg9MjU1KX0pCg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LnR5cGVzIGltcG9ydCBJbnRlZ2VyLCBWQVJDSEFSLCBEYXRlLCBGbG9hdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGZPcHAudG9fc3FsKCdzZl9vcHBvcnR1bml0eScsIHNjaGVtYT0ncmVwb3J0aW5nJywgY29uPWNvbm5lY3Rpb24sIGlmX2V4aXN0cz0ncmVwbGFjZScsCg==</text>
+        <text encoding="base64">dXNlcnMgPSBzZi5xdWVyeSgiU2VsZWN0IElkLCBNZWRTYXZ2eV9Vc2VyX0lEX19jLCBIYXNPcHRlZE91dE9mRW1haWwgZnJvbSBDb250YWN0IHdoZXJlIEhhc09wdGVkT3V0T2ZFbWFpbCA9IEZhbHNlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoIi0tLS0tIENvbnZlcnRpbmcgU0YgT3Bwb3J0dW5pdGllcyAtLS0tLSIpCg==</text>
+        <text encoding="base64">ZGVzYyA9IHNmLkFjY291bnQuZGVzY3JpYmUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
