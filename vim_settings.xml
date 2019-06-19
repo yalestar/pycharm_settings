@@ -84,7 +84,7 @@
       <file name="$USER_HOME$/dev/EXAMPLES/pluralsite-docker/todobackend/src/todobackend/settings/base.py" timestamp="1542063642834">
         <mark key="[" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/py_campaign_matcher/whos_in.py" timestamp="1560903595115">
+      <file name="$USER_HOME$/dev/py_campaign_matcher/whos_in.py" timestamp="1560964371493">
         <mark key="[" line="23" column="80" />
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
@@ -130,10 +130,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560901738066">
+      <file name="/Python Console" timestamp="1560964500803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/airflow/examples/dinkus.py" timestamp="1550537526617">
         <mark key="[" line="11" column="0" />
@@ -293,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>df.join('campaign_id')</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>df.join('campaign_id')</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Igo=</text>
