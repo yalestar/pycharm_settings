@@ -84,10 +84,11 @@
       <file name="$USER_HOME$/dev/EXAMPLES/pluralsite-docker/todobackend/src/todobackend/settings/base.py" timestamp="1542063642834">
         <mark key="[" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/py_campaign_matcher/whos_in.py" timestamp="1560983322808">
-        <mark key="]" line="47" column="40" />
-        <mark key="." line="47" column="40" />
-        <mark key="^" line="47" column="40" />
+      <file name="$USER_HOME$/dev/py_campaign_matcher/whos_in.py" timestamp="1560989532256">
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="91" />
+        <mark key="." line="71" column="91" />
+        <mark key="^" line="71" column="91" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/phoner/test_phonebook.py" timestamp="1543806781715">
         <mark key="[" line="6" column="39" />
@@ -129,7 +130,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560983151767">
+      <file name="/Python Console" timestamp="1560989311109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airflow/examples/dinkus.py" timestamp="1550537526617">
@@ -138,7 +139,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1560901767030">
+      <file name="/fragment.py" timestamp="1560989315788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -290,13 +291,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAjIG51bV9jbGFpbXMgPSBpbnQocm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHByaW50KGZuLCBsbiwgcm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Ig==</text>
+        <text>oppos_sql</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICBwcmludChmIlx0IHtyb3dbJ2NhbXBhaWduX2lkJ119Iik=</text>
+        <text>oppos_sql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBTkQgcGF0aWVudF9maXJzdF9uYW1lID0gJyUnOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAjIG51bV9jbGFpbXMgPSBpbnQocm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHByaW50KGZuLCBsbiwgcm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Ig==</text>
@@ -326,7 +327,7 @@
         <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name=":" type="4">
-        <text>9</text>
+        <text>62</text>
       </register>
     </registers>
     <search>
@@ -346,6 +347,7 @@
         <entry>5</entry>
         <entry>27</entry>
         <entry>9</entry>
+        <entry>62</entry>
       </history-cmd>
       <history-expr />
       <history-input />
