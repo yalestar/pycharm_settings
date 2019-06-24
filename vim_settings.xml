@@ -90,11 +90,11 @@
         <mark key="." line="71" column="91" />
         <mark key="^" line="71" column="91" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561406182352">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="^" line="19" column="67" />
-        <mark key="." line="20" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561407751758">
+        <mark key="[" line="13" column="120" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/phoner/test_phonebook.py" timestamp="1543806781715">
         <mark key="[" line="6" column="39" />
@@ -313,8 +313,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/untitled/stacko.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sql('optin_users', schema='reporting', con=pg_connection, if_exists='replace', dtype=dtypes)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBsaXN0T3BwID1bKHJlY29yZFsnSWQnXSwgcmVjb3JkWydOYW1lJ10sIHJlY29yZFsnQWNjb3VudElkJ10sIHJlY29yZFsnRWZmZWN0aXZlX0RhdGVfX2MnXSwgcmVjb3JkWydTdGFnZU5hbWUnXSkgZm9yIHJlY29yZCBpbiBPcHBbJ3JlY29yZHMnXV0KIyBwcmludCgiLS0tLS0gQ29udmVydGluZyBTRiBPcHBvcnR1bml0aWVzIC0tLS0tIikKIyBPcHAgPSBzZi5xdWVyeSgKIyAgICAgIlNFTEVDVCBJZCwgTmFtZSwgQWNjb3VudElkLCBFZmZlY3RpdmVfRGF0ZV9fYywgU3RhZ2VOYW1lIEZST00gT3Bwb3J0dW5pdHkiKQojIGxpc3RPcHAgPSBbKHJlY29yZFsnSWQnXSwgcmVjb3JkWydOYW1lJ10sIHJlY29yZFsnQWNjb3VudElkJ10sIHJlY29yZFsKIyAgICAgICAgICAgICAnRWZmZWN0aXZlX0RhdGVfX2MnXSwgcmVjb3JkWydTdGFnZU5hbWUnXSkgZm9yIHJlY29yZCBpbiBPcHBbJ3JlY29yZHMnXV0KIyBkZk9wcCA9IHBkLkRhdGFGcmFtZShbeCBmb3IgeCBpbiBsaXN0T3BwXSkKIyBkZk9wcC5jb2x1bW5zID0gWydJZCcsICdOYW1lJywgJ0FjY291bnRJZCcsICdFZmZlY3RpdmVfRGF0ZV9fYycsICdTdGFnZU5hbWUnXQojIGRmT3BwLnRvX3NxbCgnc2Zfb3Bwb3J0dW5pdHknLCBzY2hlbWE9J3JlcG9ydGluZycsIGNvbj1jb25uZWN0aW9uLCBpZl9leGlzdHM9J3JlcGxhY2UnLAojICAgICAgICAgICAgICBkdHlwZT17J0lkJzogVkFSQ0hBUihsZW5ndGg9MjU1KSwKIyAgICAgICAgICAgICAgICAgICAgICdOYW1lJzogVkFSQ0hBUihsZW5ndGg9MjU1KSwKIyAgICAgICAgICAgICAgICAgICAgICdBY2NvdW50SWQnOiBWQVJDSEFSKGxlbmd0aD0yNTUpLAojICAgICAgICAgICAgICAgICAgICAgJ0VmZmVjdGl2ZV9EYXRlX19jJzogRGF0ZSwKIyAgICAgICAgICAgICAgICAgICAgICdTdGFnZU5hbWUnOiBWQVJDSEFSKGxlbmd0aD0yNTUpfSkK</text>
       </register>
       <register name="-" type="4">
         <text>sql('optin_users', schema='reporting', con=pg_connection, if_exists='replace', dtype=dtypes)</text>
@@ -323,31 +323,31 @@
         <text encoding="base64">IyBkZi50b19zcWwoJ29wdGluX3VzZXJzJywgc2NoZW1hPSdyZXBvcnRpbmcnLCBjb249cGdfY29ubmVjdGlvbiwgaWZfZXhpc3RzPSdyZXBsYWNlJywgZHR5cGU9ZHR5cGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocHVsbHMK</text>
+        <text encoding="base64">IyBsaXN0T3BwID1bKHJlY29yZFsnSWQnXSwgcmVjb3JkWydOYW1lJ10sIHJlY29yZFsnQWNjb3VudElkJ10sIHJlY29yZFsnRWZmZWN0aXZlX0RhdGVfX2MnXSwgcmVjb3JkWydTdGFnZU5hbWUnXSkgZm9yIHJlY29yZCBpbiBPcHBbJ3JlY29yZHMnXV0KIyBwcmludCgiLS0tLS0gQ29udmVydGluZyBTRiBPcHBvcnR1bml0aWVzIC0tLS0tIikKIyBPcHAgPSBzZi5xdWVyeSgKIyAgICAgIlNFTEVDVCBJZCwgTmFtZSwgQWNjb3VudElkLCBFZmZlY3RpdmVfRGF0ZV9fYywgU3RhZ2VOYW1lIEZST00gT3Bwb3J0dW5pdHkiKQojIGxpc3RPcHAgPSBbKHJlY29yZFsnSWQnXSwgcmVjb3JkWydOYW1lJ10sIHJlY29yZFsnQWNjb3VudElkJ10sIHJlY29yZFsKIyAgICAgICAgICAgICAnRWZmZWN0aXZlX0RhdGVfX2MnXSwgcmVjb3JkWydTdGFnZU5hbWUnXSkgZm9yIHJlY29yZCBpbiBPcHBbJ3JlY29yZHMnXV0KIyBkZk9wcCA9IHBkLkRhdGFGcmFtZShbeCBmb3IgeCBpbiBsaXN0T3BwXSkKIyBkZk9wcC5jb2x1bW5zID0gWydJZCcsICdOYW1lJywgJ0FjY291bnRJZCcsICdFZmZlY3RpdmVfRGF0ZV9fYycsICdTdGFnZU5hbWUnXQojIGRmT3BwLnRvX3NxbCgnc2Zfb3Bwb3J0dW5pdHknLCBzY2hlbWE9J3JlcG9ydGluZycsIGNvbj1jb25uZWN0aW9uLCBpZl9leGlzdHM9J3JlcGxhY2UnLAojICAgICAgICAgICAgICBkdHlwZT17J0lkJzogVkFSQ0hBUihsZW5ndGg9MjU1KSwKIyAgICAgICAgICAgICAgICAgICAgICdOYW1lJzogVkFSQ0hBUihsZW5ndGg9MjU1KSwKIyAgICAgICAgICAgICAgICAgICAgICdBY2NvdW50SWQnOiBWQVJDSEFSKGxlbmd0aD0yNTUpLAojICAgICAgICAgICAgICAgICAgICAgJ0VmZmVjdGl2ZV9EYXRlX19jJzogRGF0ZSwKIyAgICAgICAgICAgICAgICAgICAgICdTdGFnZU5hbWUnOiBWQVJDSEFSKGxlbmd0aD0yNTUpfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFwcGVuZCBmaW5hbCBkYXRhIHRvIHB1bGxzCg==</text>
+        <text encoding="base64">cHJpbnQocHVsbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEFwcGVuZCBmaW5hbCBkYXRhIHRvIHB1bGxzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNldCB4IHRvIEZhbHNlIHRvIGVuZCBsb29wCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNldCB4IHRvIEZhbHNlIHRvIGVuZCBsb29wCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFF1ZXJ5IG5ldyAnbmV4dFJFY29yZHNVcmwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcGVuZCBuZXcgcXVlcnkgdG8gcHVsbHMK</text>
+        <text encoding="base64">ICAgICAgICAjIFF1ZXJ5IG5ldyAnbmV4dFJFY29yZHNVcmwnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyByZXR1cm4gcHVsbHMgdG8gdmlldyBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFwcGVuZCBuZXcgcXVlcnkgdG8gcHVsbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVsbHMK</text>
+        <text encoding="base64">IyByZXR1cm4gcHVsbHMgdG8gdmlldyBkYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
