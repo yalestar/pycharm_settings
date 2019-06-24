@@ -90,11 +90,11 @@
         <mark key="." line="71" column="91" />
         <mark key="^" line="71" column="91" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561398563100">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="13" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561400348987">
+        <mark key="[" line="11" column="113" />
+        <mark key="]" line="15" column="49" />
+        <mark key="^" line="15" column="49" />
+        <mark key="." line="15" column="49" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/phoner/test_phonebook.py" timestamp="1543806781715">
         <mark key="[" line="6" column="39" />
@@ -302,41 +302,50 @@
       <jump line="31" column="23" filename="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBBTkQgcGF0aWVudF9maXJzdF9uYW1lID0gJyUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBjb252ZXJ0IGxpc3Qgb2YgdHVwbGVzIHRvIERhdGFGcmFtZQpkZiA9IHBkLkRhdGFGcmFtZShbeCBmb3IgeCBpbiBsaXN0MV0pCmRmLmNvbHVtbnMgPSBbJ01lZFNhdnZ5X1VzZXJfSURfX2MnLCAnSGFzT3B0ZWRPdXRPZkVtYWlsJ10KCnByaW50KGRmKQo=</text>
+        <text encoding="base64">IyAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAjIG51bV9jbGFpbXMgPSBpbnQocm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHByaW50KGZuLCBsbiwgcm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Ig==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y2FsbCA9IHNmLnF1ZXJ5KCJTRUxFQ1QgTWVkU2F2dnlfVXNlcl9JRF9fYywgSGFzT3B0ZWRPdXRPZkVtYWlsIEZST00gQ29udGFjdCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBxdWVyeSBzYWxlc2ZvcmNlIFJFU1QgQVBJCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmIlx0IHtyb3dbJ2NhbXBhaWduX2lkJ119IikK</text>
+      <register name="4" type="4">
+        <text>rows = call['records']
+
+next = call.get('nextRecordsUrl', None)
+
+while next:
+    call = sf.query_more(next)
+    rows.extend(call.get('records', []))
+    next = call.get('nextRecordsUrl', None)
+
+print(rows.size)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc190Y286Cg==</text>
+        <text encoding="base64">IyBsaXN0MSA9IFsocmVjb3JkWydNZWRTYXZ2eV9Vc2VyX0lEX19jJ10sIHJlY29yZFsnSGFzT3B0ZWRPdXRPZkVtYWlsJ10pIGZvciByZWNvcmQgaW4gc2ZbJ3JlY29yZHMnXV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlY29yZFsnTWVkU2F2dnlfVXNlcl9JRF9fYyddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb252ZXJ0IE9yZGVyZWREaWN0IHRvIGxpc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YiA9ICJcdCIK</text>
+        <text encoding="base64">IyBjb252ZXJ0IGxpc3Qgb2YgdHVwbGVzIHRvIERhdGFGcmFtZQpkZiA9IHBkLkRhdGFGcmFtZShbeCBmb3IgeCBpbiBsaXN0MV0pCmRmLmNvbHVtbnMgPSBbJ01lZFNhdnZ5X1VzZXJfSURfX2MnLCAnSGFzT3B0ZWRPdXRPZkVtYWlsJ10KCnByaW50KGRmKQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcmludChmIntmdWxsX25hbWV9IHttZW1iZXJfaWR9IG1hdGNoZXMge2RmLnNpemV9IGNhbXBhaWducyIpCiAgICBmb3IgaW5kZXgsIHJvdyBpbiBkZi5pdGVycm93cygpOgogICAgICAgIHRiID0gIlx0IgogICAgICAgIHByaW50KGYiXHQge3Jvd1snY2FtcGFpZ25faWQnXX0iKQogICAgICAgICMgZm9yIGVhY2ggY2FtcGFpZ24gb3BwbyBmaW5kIHRoZSB0YXJnZXQgdHJlYXRtZW50CiAgICAgICAgY3Rfc3FsID0gZiJzZWxlY3QgIg==</text>
+        <text encoding="base64">ICAgICAgICAjIG51bV9jbGFpbXMgPSBpbnQocm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHByaW50KGZuLCBsbiwgcm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Ig==</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
