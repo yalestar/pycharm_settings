@@ -90,7 +90,12 @@
         <mark key="." line="71" column="91" />
         <mark key="^" line="71" column="91" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561409424867" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561411735217">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="60" />
+        <mark key="^" line="22" column="60" />
+        <mark key="." line="22" column="60" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/phoner/test_phonebook.py" timestamp="1543806781715">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="43" />
@@ -309,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>df[df.medsavvy_user_id != '99999999999999.0']</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>df[df.medsavvy_user_id != '99999999999999.0']</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBkZi50b19zcWwoJ29wdGluX3VzZXJzJywgc2NoZW1hPSdyZXBvcnRpbmcnLCBjb249cGdfY29ubmVjdGlvbiwgaWZfZXhpc3RzPSdyZXBsYWNlJywgZHR5cGU9ZHR5cGVzKQo=</text>
