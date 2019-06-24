@@ -90,11 +90,11 @@
         <mark key="." line="71" column="91" />
         <mark key="^" line="71" column="91" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561400348987">
-        <mark key="[" line="11" column="113" />
-        <mark key="]" line="15" column="49" />
-        <mark key="^" line="15" column="49" />
-        <mark key="." line="15" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/api_call.py" timestamp="1561406182352">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="19" column="67" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/dev/EXAMPLES/phoner/test_phonebook.py" timestamp="1543806781715">
         <mark key="[" line="6" column="39" />
@@ -136,7 +136,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561073975829">
+      <file name="/Python Console" timestamp="1561404994669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airflow/examples/dinkus.py" timestamp="1550537526617">
@@ -145,7 +145,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1561061287592">
+      <file name="/fragment.py" timestamp="1561405019806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -273,6 +273,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/stacko.py" timestamp="1561405214979">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="10" column="119" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/EXAMPLES/pawel/ingbing.py" timestamp="1561073968456">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="29" column="39" />
@@ -300,55 +307,50 @@
       <jump line="26" column="9" filename="$USER_HOME$/Downloads/whos_in.py" />
       <jump line="28" column="20" filename="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" />
       <jump line="31" column="23" filename="$USER_HOME$/dev/PycharmProjects/sfapi/sf_oppo.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/PycharmProjects/untitled/stacko.py" />
+      <jump line="30" column="10" filename="$USER_HOME$/PycharmProjects/untitled/stacko.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled/stacko.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/untitled/stacko.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAK</text>
+      <register name="&quot;" type="4">
+        <text>sql('optin_users', schema='reporting', con=pg_connection, if_exists='replace', dtype=dtypes)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>sql('optin_users', schema='reporting', con=pg_connection, if_exists='replace', dtype=dtypes)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBTkQgcGF0aWVudF9maXJzdF9uYW1lID0gJyUnOwo=</text>
+        <text encoding="base64">IyBkZi50b19zcWwoJ29wdGluX3VzZXJzJywgc2NoZW1hPSdyZXBvcnRpbmcnLCBjb249cGdfY29ubmVjdGlvbiwgaWZfZXhpc3RzPSdyZXBsYWNlJywgZHR5cGU9ZHR5cGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">cHJpbnQocHVsbHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FsbCA9IHNmLnF1ZXJ5KCJTRUxFQ1QgTWVkU2F2dnlfVXNlcl9JRF9fYywgSGFzT3B0ZWRPdXRPZkVtYWlsIEZST00gQ29udGFjdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEFwcGVuZCBmaW5hbCBkYXRhIHRvIHB1bGxzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBxdWVyeSBzYWxlc2ZvcmNlIFJFU1QgQVBJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>rows = call['records']
-
-next = call.get('nextRecordsUrl', None)
-
-while next:
-    call = sf.query_more(next)
-    rows.extend(call.get('records', []))
-    next = call.get('nextRecordsUrl', None)
-
-print(rows.size)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNldCB4IHRvIEZhbHNlIHRvIGVuZCBsb29wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsaXN0MSA9IFsocmVjb3JkWydNZWRTYXZ2eV9Vc2VyX0lEX19jJ10sIHJlY29yZFsnSGFzT3B0ZWRPdXRPZkVtYWlsJ10pIGZvciByZWNvcmQgaW4gc2ZbJ3JlY29yZHMnXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlY29yZFsnTWVkU2F2dnlfVXNlcl9JRF9fYyddKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFF1ZXJ5IG5ldyAnbmV4dFJFY29yZHNVcmwnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjb252ZXJ0IE9yZGVyZWREaWN0IHRvIGxpc3QK</text>
+        <text encoding="base64">ICAgICAgICAjIGFwcGVuZCBuZXcgcXVlcnkgdG8gcHVsbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBjb252ZXJ0IGxpc3Qgb2YgdHVwbGVzIHRvIERhdGFGcmFtZQpkZiA9IHBkLkRhdGFGcmFtZShbeCBmb3IgeCBpbiBsaXN0MV0pCmRmLmNvbHVtbnMgPSBbJ01lZFNhdnZ5X1VzZXJfSURfX2MnLCAnSGFzT3B0ZWRPdXRPZkVtYWlsJ10KCnByaW50KGRmKQo=</text>
+        <text encoding="base64">IyByZXR1cm4gcHVsbHMgdG8gdmlldyBkYXRhCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAjIG51bV9jbGFpbXMgPSBpbnQocm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHByaW50KGZuLCBsbiwgcm93WydjbGFpbXNfY291bnQnXSkKICAgICAgICAjIHNxbCA9IGYic2VsZWN0IGNvdW50KCopIGFzIGNsYWltc19jb3VudCBmcm9tIHJlcG9ydGluZy51aW50YWhfY2xhaW1zIHdoZXJlIHBhdGllbnRfbGFzdF9uYW1lID0gJ3tsbn0nIGFuZCBwYXRpZW50X2ZpcnN0X25hbWUgPSAne2ZufSc7Ig==</text>
+      <register name="9" type="2">
+        <text encoding="base64">cHVsbHMK</text>
       </register>
       <register name=":" type="4">
-        <text>62</text>
+        <text>11</text>
       </register>
     </registers>
     <search>
@@ -369,6 +371,7 @@ print(rows.size)</text>
         <entry>27</entry>
         <entry>9</entry>
         <entry>62</entry>
+        <entry>11</entry>
       </history-cmd>
       <history-expr />
       <history-input />
