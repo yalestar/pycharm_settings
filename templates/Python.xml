@@ -1,5 +1,11 @@
 <templateSet group="Python">
-  <template name="puts" value="print $CURSOR$&#10;" description="Not puts you asshole" toReformat="false" toShortenFQNames="true">
+  <template name="puts" value="print($CURSOR$)&#10;" description="Not puts you asshole" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pt" value="print($CURSOR$)&#10;" description="print" toReformat="false" toShortenFQNames="true">
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
