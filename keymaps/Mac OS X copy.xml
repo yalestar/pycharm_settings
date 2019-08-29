@@ -24,8 +24,11 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -33,8 +36,14 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta equals" />
@@ -56,6 +65,7 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
@@ -91,6 +101,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="SendEOF" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -106,4 +117,5 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
