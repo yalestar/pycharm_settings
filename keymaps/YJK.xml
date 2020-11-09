@@ -1,1 +1,16 @@
-<keymap version="1" name="YJK" parent="Mac OS X 10.5+" />
+<keymap version="1" name="YJK" parent="Mac OS X">
+  <action id="Console.Open" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+  </action>
+</keymap>
