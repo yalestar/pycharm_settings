@@ -1,5 +1,9 @@
 <keymap version="1" name="YJK" parent="Mac OS X">
+  <action id="CheckinProject" />
   <action id="Console.Open" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
