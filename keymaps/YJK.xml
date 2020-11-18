@@ -1,5 +1,9 @@
 <keymap version="1" name="YJK" parent="Mac OS X">
   <action id="ActivateCommitToolWindow" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="CheckinProject" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -15,6 +19,8 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
@@ -36,6 +42,10 @@
   </action>
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
