@@ -19,6 +19,9 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorDecreaseFontSize">
@@ -30,6 +33,7 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="EditorUnindentSelection" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -44,6 +48,10 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -51,10 +59,21 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="GotoLine" />
   <action id="IdeaVim.ReloadVimRc.reload" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="PreviousTemplateVariable" />
   <action id="ProblemsView.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -67,6 +86,7 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Switcher" />
   <action id="ToggleBookmark" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift meta f10" />
