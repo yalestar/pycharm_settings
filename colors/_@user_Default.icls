@@ -3,7 +3,7 @@
     <property name="created">2020-11-08T20:06:44</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-18T10:27:37</property>
+    <property name="modified">2020-11-20T13:12:14</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -23,6 +23,12 @@
       <value>
         <option name="FOREGROUND" value="4080" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="4080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
