@@ -3,7 +3,6 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="br" value="&lt;br/&gt;" description="&lt;br/&gt;" toReformat="true" toShortenFQNames="true">
@@ -21,13 +20,11 @@
   <template name="col" value="&lt;col/&gt;" description="&lt;col/&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="link" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$END$&quot;/&gt;" description="&lt;link rel=&quot;stylesheet&quot; href=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSX_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
       <option name="JSX_STATEMENT" value="true" />
     </context>
   </template>
@@ -35,60 +32,51 @@
     <variable name="STYLE" expression="" defaultValue="&quot;style&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="link:print" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$STYLE$.css&quot; media=&quot;print&quot;/&gt;" description="&lt;link rel=&quot;stylesheet&quot; href=&quot;print.css&quot; media=&quot;print&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="STYLE" expression="" defaultValue="&quot;print&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="link:favicon" value="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;$FAVICON$&quot;/&gt;" description="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;favicon.ico&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="FAVICON" expression="" defaultValue="&quot;favicon.ico&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="link:touch" value="&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;$FAVICON$&quot;/&gt;" description="&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;favicon.png&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="FAVICON" expression="" defaultValue="&quot;favicon.png&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="link:rss" value="&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;RSS&quot; href=&quot;$RSS$&quot;/&gt;" description="&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;RSS&quot; href=&quot;rss.xml&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="RSS" expression="" defaultValue="&quot;rss.xml&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="link:atom" value="&lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Atom&quot; href=&quot;$ATOM$&quot;/&gt;" description="&lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Atom&quot; href=&quot;atom.xml&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="ATOM" expression="" defaultValue="&quot;atom.xml&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="meta" value="&lt;meta/&gt;" description="&lt;meta/&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="meta:utf" value="&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;/&gt;" description="&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="meta:win" value="&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=windows-1251&quot;/&gt;" description="&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=Win-1251&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="meta:vp" value="&lt;meta name=&quot;viewport&quot; content=&quot;width=$WIDTH$, user-scalable=$SCALABLE$, initial-scale=$INITIAL_SCALE$, maximum-scale=$MAX_SCALE$, minimum-scale=$MIN_SCALE$&quot;/&gt;" description="&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -99,20 +87,17 @@
     <variable name="MIN_SCALE" expression="" defaultValue="&quot;1.0&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="meta:compat" value="&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;$VAR0$&quot;/&gt;" description="&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=7&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;IE=7&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="script" value="&lt;script&gt;$END$&lt;/script&gt;" description="&lt;script&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="img" value="&lt;img src=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;/&gt;" description="&lt;img src=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -120,7 +105,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="embed" value="&lt;embed src=&quot;$VAR0$&quot; type=&quot;$VAR1$&quot;/&gt;" description="&lt;embed src=&quot;...&quot; type=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -128,7 +112,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="param" value="&lt;param name=&quot;$VAR0$&quot; value=&quot;$VAR1$&quot;/&gt;" description="&lt;param name=&quot;...&quot; value=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -136,7 +119,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="area" value="&lt;area shape=&quot;$VAR0$&quot; coords=&quot;$VAR1$&quot; href=&quot;$VAR2$&quot; alt=&quot;$VAR3$&quot;/&gt;" description="&lt;area shape=&quot;...&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -146,7 +128,6 @@
     <variable name="VAR3" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="area:d" value="&lt;area shape=&quot;default&quot; href=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;/&gt;" description="&lt;area shape=&quot;default&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -154,7 +135,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="area:c" value="&lt;area shape=&quot;circle&quot; coords=&quot;$VAR0$&quot; href=&quot;$VAR1$&quot; alt=&quot;$VAR2$&quot;/&gt;" description="&lt;area shape=&quot;circle&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -163,7 +143,6 @@
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="area:r" value="&lt;area shape=&quot;rect&quot; coords=&quot;$VAR0$&quot; href=&quot;$VAR1$&quot; alt=&quot;$VAR2$&quot;/&gt;" description="&lt;area shape=&quot;rect&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -172,7 +151,6 @@
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="area:p" value="&lt;area shape=&quot;poly&quot; coords=&quot;$VAR0$&quot; href=&quot;$VAR1$&quot; alt=&quot;$VAR2$&quot;/&gt;" description="&lt;area shape=&quot;poly&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
@@ -181,14 +159,12 @@
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input" value="&lt;input type=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="inp" value="&lt;input type=&quot;$VAR0$&quot; name=&quot;$NAME$&quot; id=&quot;$ID$&quot;/&gt;" description="&lt;input type=&quot;...&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -197,21 +173,18 @@
     <variable name="ID" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:hidden" value="&lt;input name=&quot;$VAR0$&quot; type=&quot;hidden&quot;/&gt;" description="&lt;input name=&quot;...&quot; type=&quot;hidden&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:h" value="&lt;input name=&quot;$VAR0$&quot; type=&quot;hidden&quot;/&gt;" description="&lt;input name=&quot;...&quot; type=&quot;hidden&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:text" value="&lt;input type=&quot;text&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;text&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -219,7 +192,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:t" value="&lt;input type=&quot;text&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;text&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -227,7 +199,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:search" value="&lt;input type=&quot;search&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;search&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -235,7 +206,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:email" value="&lt;input type=&quot;email&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;email&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -243,7 +213,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:url" value="&lt;input type=&quot;url&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;url&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -251,7 +220,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:password" value="&lt;input type=&quot;password&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;password&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -259,7 +227,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:p" value="&lt;input type=&quot;password&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;password&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -267,7 +234,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:datetime" value="&lt;input type=&quot;datetime&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;datetime&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -275,7 +241,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:date" value="&lt;input type=&quot;date&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;date&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -283,7 +248,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:datetime-local" value="&lt;input type=&quot;datetime-local&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;datetime-local&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -291,7 +255,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:month" value="&lt;input type=&quot;month&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;month&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -299,7 +262,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:week" value="&lt;input type=&quot;week&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;week&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -307,7 +269,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:time" value="&lt;input type=&quot;time&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;time&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -315,7 +276,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:number" value="&lt;input type=&quot;number&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;number&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -323,7 +283,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:color" value="&lt;input type=&quot;color&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;color&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -331,7 +290,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:checkbox" value="&lt;input type=&quot;checkbox&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;checkbox&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -339,7 +297,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:c" value="&lt;input type=&quot;checkbox&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;checkbox&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -347,7 +304,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:radio" value="&lt;input type=&quot;radio&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;radio&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -355,7 +311,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:r" value="&lt;input type=&quot;radio&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;radio&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -363,7 +318,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:range" value="&lt;input type=&quot;range&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;range&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -371,7 +325,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:file" value="&lt;input type=&quot;file&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;file&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -379,7 +332,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:f" value="&lt;input type=&quot;file&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;file&quot; name=&quot;...&quot; id=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -387,21 +339,18 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:submit" value="&lt;input type=&quot;submit&quot; value=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;submit&quot; value=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:s" value="&lt;input type=&quot;submit&quot; value=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;submit&quot; value=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:image" value="&lt;input type=&quot;image&quot; src=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;image&quot; src=&quot;...&quot; alt=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -409,7 +358,6 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:i" value="&lt;input type=&quot;image&quot; src=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;/&gt;" description="&lt;input type=&quot;image&quot; src=&quot;...&quot; alt=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -417,34 +365,29 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:button" value="&lt;input type=&quot;button&quot; value=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;button&quot; value=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:b" value="&lt;input type=&quot;button&quot; value=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;button&quot; value=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="isindex" value="&lt;isindex/&gt;" description="&lt;inindex/&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="input:reset" value="&lt;input type=&quot;reset&quot; value=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;reset&quot; value=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="select:disabled" value="&lt;select name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot; disabled=&quot;$VAR2$&quot;&gt;$END$&lt;/select&gt;" description="&lt;select name=&quot;...&quot; id=&quot;...&quot; disabled=&quot;...&quot;&gt;...&lt;/select&gt;" toReformat="true" toShortenFQNames="true">
@@ -453,7 +396,6 @@
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="select:d" value="&lt;select name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot; disabled=&quot;$VAR2$&quot;&gt;$END$&lt;/select&gt;" description="&lt;select name=&quot;...&quot; id=&quot;...&quot; disabled=&quot;...&quot;&gt;...&lt;/select&gt;" toReformat="true" toShortenFQNames="true">
@@ -462,35 +404,30 @@
     <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="button:disabled" value="&lt;button disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/button&gt;" description="&lt;button disabled=&quot;&quot;&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="button:d" value="&lt;button disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/button&gt;" description="&lt;button disabled=&quot;&quot;&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="fieldset:disabled" value="&lt;fieldset disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/fieldset&gt;" description="&lt;fieldset disabled=&quot;&quot;&gt;...&lt;/fieldset&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="fieldset:d" value="&lt;fieldset disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/fieldset&gt;" description="&lt;fieldset disabled=&quot;&quot;&gt;...&lt;/fieldset&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="emb" value="&lt;embed src=&quot;$VAR0$&quot; type=&quot;$VAR1$&quot;/&gt;" description="&lt;embed src=&quot;...&quot; type=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
@@ -498,34 +435,29 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="src" value="&lt;source&gt;$END$&lt;/source&gt;" description="&lt;source&gt;...&lt;/source&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="fst:d" value="&lt;fieldset disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/fieldset&gt;" description="&lt;fieldset disabled=&quot;&quot;&gt;...&lt;/fieldset&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="btn:d" value="&lt;button disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/button&gt;" description="&lt;button disabled=&quot;&quot;&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="fset:d" value="&lt;fieldset disabled=&quot;$VAR0$&quot;&gt;$END$&lt;/fieldset&gt;" description="&lt;fieldset disabled=&quot;&quot;&gt;...&lt;/fieldset&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="map+" value="&lt;map name=&quot;$VAR0$&quot;&gt;&#10;&lt;area shape=&quot;$VAR1$&quot; coords=&quot;$VAR2$&quot; href=&quot;$VAR3$&quot; alt=&quot;$VAR4$&quot;/&gt;$END$&#10;&lt;/map&gt;" description="" toReformat="true" toShortenFQNames="true">
@@ -536,19 +468,16 @@
     <variable name="VAR4" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="colgroup+" value="&lt;colgroup&gt;&#10;&lt;col/&gt;&#10;&lt;/colgroup&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
   <template name="colg+" value="&lt;colgroup&gt;&#10;&lt;col/&gt;&#10;&lt;/colgroup&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSP" value="true" />
-      <option name="JSX_HTML" value="true" />
     </context>
   </template>
 </templateSet>
