@@ -1,0 +1,27 @@
+<application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="activeAuthenticationType" value="rO0ABXQAIkV4cGxpY2l0IGFjY2VzcyBrZXkgYW5kIHNlY3JldCBrZXk=" />
+              <entry key="bucketName" value="rO0ABXQAGnViZXJhZHMtYW5hbHlzaXMtdXMtd2VzdC0y" />
+              <entry key="customEndpoint" value="rO0ABXQAAA==" />
+              <entry key="customRegion" value="rO0ABXQAAA==" />
+              <entry key="region" value="rO0ABXQAC2F1dG8tZGV0ZWN0" />
+              <entry key="rootPath" value="rO0ABXQAAA==" />
+              <entry key="timeout" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAABOI" />
+              <entry key="useCustomEndpoint" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+            </map>
+          </option>
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.S3ConnectionData" />
+          <option name="groupId" value="S3ConnectionGroup" />
+          <option name="innerId" value="AWS S3@S3ConnectionGroup@7557189072831785872" />
+          <option name="name" value="AWS S3" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+</application>
