@@ -5,7 +5,10 @@
         <entry key="Spark monitoring connection@SparkMonitoringConnections@-9000955675828853154">
           <value>
             <SparkConfig>
-              <option name="selectedApplicationId" value="local-1606536669374" />
+              <option name="jobsSplitterProportion" value="0.49848944" />
+              <option name="selectedApplicationId" value="local-1606538960987" />
+              <option name="selectedJobId" value="5" />
+              <option name="selectedStageId" value="5" />
             </SparkConfig>
           </value>
         </entry>
