@@ -6,9 +6,9 @@
           <value>
             <SparkConfig>
               <option name="jobsSplitterProportion" value="0.49848944" />
-              <option name="selectedApplicationId" value="local-1606538960987" />
-              <option name="selectedJobId" value="5" />
-              <option name="selectedStageId" value="5" />
+              <option name="selectedApplicationId" value="local-1606624746748" />
+              <option name="selectedJobId" value="0" />
+              <option name="selectedStageId" value="0" />
             </SparkConfig>
           </value>
         </entry>
