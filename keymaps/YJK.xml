@@ -80,6 +80,12 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="meta alt right" />
