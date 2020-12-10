@@ -40,7 +40,7 @@
           <option name="innerId" value="Spark monitoring connection@SparkMonitoringConnections@-9000955675828853154" />
           <option name="name" value="Spark monitoring connection" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
-          <option name="uri" value="localhost:4040" />
+          <option name="uri" value="ec2-54-193-11-61.us-west-1.compute.amazonaws.com" />
         </ExtendedConnectionData>
       </list>
     </option>
