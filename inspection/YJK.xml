@@ -1,10 +1,11 @@
 <profile version="1.0">
   <option name="myName" value="YJK" />
+  <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyIncorrectDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="15">
+        <list size="23">
           <item index="0" class="java.lang.String" itemvalue="botocore" />
           <item index="1" class="java.lang.String" itemvalue="Babel" />
           <item index="2" class="java.lang.String" itemvalue="PyYAML" />
@@ -20,6 +21,14 @@
           <item index="12" class="java.lang.String" itemvalue="docutils" />
           <item index="13" class="java.lang.String" itemvalue="pytz" />
           <item index="14" class="java.lang.String" itemvalue="nose" />
+          <item index="15" class="java.lang.String" itemvalue="s3transfer" />
+          <item index="16" class="java.lang.String" itemvalue="Pygments" />
+          <item index="17" class="java.lang.String" itemvalue="cffi" />
+          <item index="18" class="java.lang.String" itemvalue="s3fs" />
+          <item index="19" class="java.lang.String" itemvalue="cryptography" />
+          <item index="20" class="java.lang.String" itemvalue="requests" />
+          <item index="21" class="java.lang.String" itemvalue="urllib3" />
+          <item index="22" class="java.lang.String" itemvalue="Jinja2" />
         </list>
       </value>
     </option>
