@@ -69,6 +69,9 @@
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="Forward">
