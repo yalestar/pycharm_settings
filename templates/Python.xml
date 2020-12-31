@@ -22,4 +22,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="qs" value="'$SELECTION$'" description="surround with quotes" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
