@@ -1,37 +1,10 @@
 <templateSet group="user">
-  <template name="opp" value="&lt;%= $END$ %&gt;" description="erb output tag" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="op" value="&lt;% $END$ %&gt;" description="erb output tag" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="blk" value="&lt;% $END$ %&gt;&#10;&#10;&lt;% end %&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="XML" value="true" />
-    </context>
-  </template>
   <template name="br" value="&lt;br /&gt;" description="Line Break" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="dbge" value="&lt;%= debug($END$) %&gt;" description="debug in erb" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="XML" value="true" />
-    </context>
-  </template>
   <template name="end" value="&lt;% end %&gt;" description="end block tag" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-  <template name="yt" value="#{$END$}" description="string interpolation thing" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
@@ -58,28 +31,13 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="pdb" value="params.each do |k,v|&#10;   puts &quot;#{k}:#{v} \n&quot;&#10;end" description="params debug loop" toReformat="false" toShortenFQNames="true" />
   <template name="lt" value="&lt;%= link_to(&quot;$END$&quot;) %&gt;" description="link_to tag" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="if" value="&lt;% if $END$ %&gt;&#10;&#10;&lt;% end %&gt;" description="if block" toReformat="false" toShortenFQNames="true" />
-  <template name="iff" value="&lt;% if $END$ %&gt;&#10;&#10;&lt;% else %&gt;&#10;&#10;&lt;% end %&gt;" description="if block" toReformat="false" toShortenFQNames="true" />
-  <template name="else" value=" &lt;% else %&gt;$END$" description="else tag" toReformat="true" toShortenFQNames="true" />
   <template name="sa" value="select * from $END$" description="select * from" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="XML" value="false" />
-    </context>
-  </template>
-  <template name="dbg" value="debugger" description="debugger line" toReformat="true" toShortenFQNames="true" />
-  <template name="pu" value="puts &quot;$THING$: #{$THING$}&quot;" description="print variables" toReformat="false" toShortenFQNames="true">
-    <variable name="THING" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
-  <template name="show" value="Then show me the page" description="Then show me the page" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="false" />
       <option name="OTHER" value="true" />
@@ -92,18 +50,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="rsd" value=" respond_to do |format|&#10;   format.html { $END$ }&#10;   format.js { }&#10; end" description="respond_to block" toReformat="false" toShortenFQNames="true" />
   <template name="jq" value="jQuery($END$)" description="JQuery" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="ddbb" value="&lt;% debugger %&gt;" description="ERB debugger" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-      <option name="XML" value="false" />
-    </context>
-  </template>
-  <template name="rdb" value="Rails.logger.debug($END$)" description="Rails.logger.debug" toReformat="false" toShortenFQNames="true" />
-  <template name="p80" value="puts &quot;=&quot;*80" description="p80" toReformat="false" toShortenFQNames="true" />
 </templateSet>
