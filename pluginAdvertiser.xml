@@ -141,7 +141,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1151,7 +1150,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1160,7 +1158,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1169,7 +1166,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1178,7 +1174,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1187,7 +1182,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
