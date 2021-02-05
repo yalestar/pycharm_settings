@@ -5,8 +5,8 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="YJK" />
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="IBM Plex Mono" />
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
