@@ -3,30 +3,6 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="PL/SQL (DBN)" />
-          <option name="key" value="sel:i" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PL/SQL (DBN)" />
-          <option name="key" value="del" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PL/SQL (DBN)" />
-          <option name="key" value="ins:v" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PL/SQL (DBN)" />
-          <option name="key" value="ins:s" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PL/SQL (DBN)" />
-          <option name="key" value="for:l" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PL/SQL (DBN)" />
-          <option name="key" value="bege" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Zen HTML" />
           <option name="key" value="!!!" />
         </TemplateKey>
