@@ -23,4 +23,9 @@
     </context>
   </template>
   <template name="qs" value="'$SELECTION$'" description="surround with quotes" toReformat="false" toShortenFQNames="true" />
+  <template name="li" value="logging.info($END$)" description="logging.info" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
