@@ -141,7 +141,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -725,8 +724,8 @@
         <entry key="*.py">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -734,8 +733,8 @@
         <entry key="*.pyi">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -743,8 +742,8 @@
         <entry key="*.pyw">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -860,9 +859,8 @@
         <entry key="*.sql">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -980,8 +978,8 @@
         <entry key="*.ui">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1197,7 +1195,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1206,7 +1203,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1215,7 +1211,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1224,7 +1219,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1233,15 +1227,14 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="buildout.cfg">
           <value>
             <plugin>
-              <option name="myPluginId" value="Pythonid" />
-              <option name="myPluginName" value="Python" />
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1332,7 +1325,7 @@
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -1347,7 +1340,7 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -1367,7 +1360,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                 </map>
@@ -1382,7 +1375,7 @@
                 <map>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="django">
