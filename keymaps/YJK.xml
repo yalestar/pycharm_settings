@@ -47,6 +47,8 @@
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection" />
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -90,6 +92,12 @@
   <action id="IdeaVim.ReloadVimRc.reload" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
