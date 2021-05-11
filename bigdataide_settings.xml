@@ -1,0 +1,48 @@
+<application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="activeAuthenticationType" value="rO0ABXQAIkV4cGxpY2l0IGFjY2VzcyBrZXkgYW5kIHNlY3JldCBrZXk=" />
+              <entry key="bucketName" value="rO0ABXQAGnViZXJhZHMtYW5hbHlzaXMtdXMtd2VzdC0y" />
+              <entry key="customEndpoint" value="rO0ABXQAAA==" />
+              <entry key="customRegion" value="rO0ABXQAAA==" />
+              <entry key="region" value="rO0ABXQAC2F1dG8tZGV0ZWN0" />
+              <entry key="rootPath" value="rO0ABXQAAA==" />
+              <entry key="timeout" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAABOI" />
+              <entry key="useCustomEndpoint" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+            </map>
+          </option>
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.S3ConnectionData" />
+          <option name="groupId" value="S3ConnectionGroup" />
+          <option name="innerId" value="AWS S3@S3ConnectionGroup@7557189072831785872" />
+          <option name="name" value="AWS S3" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="enableBasicAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="enableProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="historyServer" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyEnableType" value="rO0ABX5yADVjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5RW5hYmxlVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACERJU0FCTEVE" />
+              <entry key="proxyHost" value="rO0ABXQAAA==" />
+              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
+              <entry key="proxyType" value="rO0ABX5yAC9jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5VHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABEhUVFA=" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAFWgAJaXNFbmFibGVkSQAJbG9jYWxQb3J0SQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAAAACwTwAAAFB0AAB0AAlsb2NhbGhvc3Q=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.spark.monitoring.settings.SparkConnectionData" />
+          <option name="groupId" value="SparkMonitoringConnections" />
+          <option name="innerId" value="Spark monitoring connection@SparkMonitoringConnections@-9000955675828853154" />
+          <option name="name" value="Spark monitoring connection" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+          <option name="uri" value="ec2-54-193-11-61.us-west-1.compute.amazonaws.com" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+</application>

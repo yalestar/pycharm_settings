@@ -1,0 +1,95 @@
+<profile version="1.0">
+  <option name="myName" value="YJK" />
+  <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredUrls">
+      <list>
+        <option value="http://localhost" />
+        <option value="http://127.0.0.1" />
+        <option value="http://www.w3.org/2000/svg" />
+        <option value="http://www.w3.org/2000/10/XMLSchema" />
+        <option value="http://www.w3.org/2001/XMLSchema" />
+        <option value="http://www.w3.org/2001/XMLSchema-instance" />
+        <option value="http://www.w3.org/2003/03/wsdl" />
+        <option value="http://json-schema.org/draft" />
+        <option value="http://java.sun.com/xml/ns/" />
+        <option value="http://xmlns.jcp.org/xml/ns/" />
+        <option value="http://javafx.com/javafx/" />
+        <option value="http://javafx.com/fxml" />
+        <option value="http://maven.apache.org/xsd/" />
+        <option value="http://maven.apache.org/POM/" />
+        <option value="http://www.springframework.org/schema/" />
+        <option value="http://www.thymeleaf.org" />
+        <option value="http://www.ibm.com/webservices/xsd" />
+        <option value="http://schemas.xmlsoap.org/" />
+        <option value="http://cxf.apache.org/schemas/" />
+        <option value="http://card-prod.ev3e5t7p9s.us-west-2.elasticbeanstalk.com" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyIncorrectDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="ignoredPackages">
+      <value>
+        <list size="23">
+          <item index="0" class="java.lang.String" itemvalue="botocore" />
+          <item index="1" class="java.lang.String" itemvalue="Babel" />
+          <item index="2" class="java.lang.String" itemvalue="PyYAML" />
+          <item index="3" class="java.lang.String" itemvalue="SQLAlchemy" />
+          <item index="4" class="java.lang.String" itemvalue="numpy" />
+          <item index="5" class="java.lang.String" itemvalue="geojson" />
+          <item index="6" class="java.lang.String" itemvalue="jmespath" />
+          <item index="7" class="java.lang.String" itemvalue="pandas" />
+          <item index="8" class="java.lang.String" itemvalue="boto3" />
+          <item index="9" class="java.lang.String" itemvalue="scandir" />
+          <item index="10" class="java.lang.String" itemvalue="zipp" />
+          <item index="11" class="java.lang.String" itemvalue="certifi" />
+          <item index="12" class="java.lang.String" itemvalue="docutils" />
+          <item index="13" class="java.lang.String" itemvalue="pytz" />
+          <item index="14" class="java.lang.String" itemvalue="nose" />
+          <item index="15" class="java.lang.String" itemvalue="s3transfer" />
+          <item index="16" class="java.lang.String" itemvalue="Pygments" />
+          <item index="17" class="java.lang.String" itemvalue="cffi" />
+          <item index="18" class="java.lang.String" itemvalue="s3fs" />
+          <item index="19" class="java.lang.String" itemvalue="cryptography" />
+          <item index="20" class="java.lang.String" itemvalue="requests" />
+          <item index="21" class="java.lang.String" itemvalue="urllib3" />
+          <item index="22" class="java.lang.String" itemvalue="Jinja2" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="E501" />
+        <option value="E722" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="N806" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyShadowingBuiltinsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="solution_builder_functions" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+  <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+</profile>

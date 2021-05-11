@@ -1,0 +1,58 @@
+<templateSet group="user">
+  <template name="br" value="&lt;br /&gt;" description="Line Break" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="end" value="&lt;% end %&gt;" description="end block tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="dsn" value="style=&quot;display:none;&quot; " description="style=&quot;display:none;&quot;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="slt" value="&lt;%= stylesheet_link_tag &quot;$END$&quot; %&gt;" description="stylesheet link tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="jlt" value="&lt;%= javascript_include_tag &quot;$END$&quot; %&gt;" description="stylesheet link tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="jqr" value="$(function() { &#10;    $END$ &#10;});" description="JQuery document ready idiom" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="lt" value="&lt;%= link_to(&quot;$END$&quot;) %&gt;" description="link_to tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="sa" value="select * from $END$" description="select * from" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="clog" value="console.log(&quot;$END$&quot;);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="jq" value="jQuery($END$)" description="JQuery" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

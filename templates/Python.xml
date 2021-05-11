@@ -1,0 +1,31 @@
+<templateSet group="Python">
+  <template name="puts" value="print($CURSOR$)&#10;" description="Not puts you asshole" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pt" value="print($CURSOR$)&#10;" description="print" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="print(f'$VAR$: {$VAR$}')&#10;" description="f-print variable" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="p80" value="print('-' * 60)" description="print 80 dashes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="qs" value="'$SELECTION$'" description="surround with quotes" toReformat="false" toShortenFQNames="true" />
+  <template name="li" value="logging.info($END$)" description="logging.info" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
