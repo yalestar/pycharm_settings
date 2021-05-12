@@ -74,7 +74,7 @@
                   </entry>
                   <entry key="Python.AppEngineServer">
                     <value>
-                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Python.DjangoServer">
@@ -174,7 +174,7 @@
                   </entry>
                   <entry key="google-appengine-python">
                     <value>
-                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
                     </value>
                   </entry>
                 </map>
